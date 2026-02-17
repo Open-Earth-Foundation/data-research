@@ -1,0 +1,279 @@
+Entidad,Nombre variable,Descripción de la variable,Valor,Etiqueta de categoría,Rango,Universo,Conteo,
+Vivienda,id_vivienda,Llave identificadora de la vivienda o de la entrevista,1:7664466,Válidos,1:7664466,Todos los registros,"7,664,466",
+Vivienda,region,Región,1:16,Ver diccionario códigos territoriales,1:16,Todos los registros,"7,664,466",
+Vivienda,provincia,Provincia,11:163,Ver diccionario códigos territoriales,11:163,Todos los registros,"7,664,466",
+Vivienda,comuna,Comuna,1101:16305,Ver diccionario códigos territoriales,1101:16305,Todos los registros,"7,664,466",
+Vivienda,area,Área urbana o rural,1,Urbano,1:2,Todos los registros,"6,365,998",
+Vivienda,area,Área urbana o rural,2,Rural,1:2,Todos los registros,"1,298,468",
+Vivienda,tipo_operativo,Tipo de operativo ,1,Persona en situación de calle,1:3,Todos los registros,"21,750",
+Vivienda,tipo_operativo,Tipo de operativo,2,Vivienda particular,1:3,Todos los registros,"7,638,396",
+Vivienda,tipo_operativo,Tipo de operativo,3,Vivienda colectiva,1:3,Todos los registros,"4,320",
+Vivienda,p2_tipo_vivienda,2. Tipo de vivienda particular ,1,Casa,1:9; NA (no aplica),Todas las viviendas particulares,"5,937,284",
+Vivienda,p2_tipo_vivienda,2. Tipo de vivienda particular ,3,Departamento,1:9; NA (no aplica),Todas las viviendas particulares,"1,579,970",
+Vivienda,p2_tipo_vivienda,2. Tipo de vivienda particular ,5,Vivienda tradicional indígena (ruka u otras),1:9; NA (no aplica),Todas las viviendas particulares,"1,967",
+Vivienda,p2_tipo_vivienda,2. Tipo de vivienda particular ,6,Pieza en casa antigua o en conventillo,1:9; NA (no aplica),Todas las viviendas particulares,"51,305",
+Vivienda,p2_tipo_vivienda,2. Tipo de vivienda particular ,7,"Mediagua, mejora, vivienda de emergencia, rancho o choza",1:9; NA (no aplica),Todas las viviendas particulares,"27,490",
+Vivienda,p2_tipo_vivienda,2. Tipo de vivienda particular ,8,"Móvil (carpa, casa rodante o similar)",1:9; NA (no aplica),Todas las viviendas particulares,"1,557",
+Vivienda,p2_tipo_vivienda,2. Tipo de vivienda particular ,9,Otro tipo de vivienda particular,1:9; NA (no aplica),Todas las viviendas particulares,"38,823",
+Vivienda,p2_tipo_vivienda,2. Tipo de vivienda particular ,NA,No aplica,1:9; NA (no aplica),Todas las viviendas particulares,"26,070",
+Vivienda,p3a_estado_ocupacion,3a. Estado de ocupación de la vivienda ,1,Ocupada,1:2; NA (no aplica),Todas las viviendas particulares,"6,730,463",
+Vivienda,p3a_estado_ocupacion,3a. Estado de ocupación de la vivienda ,2,Desocupada,1:2; NA (no aplica),Todas las viviendas particulares,"907,933",
+Vivienda,p3a_estado_ocupacion,3a. Estado de ocupación de la vivienda ,NA,No aplica,1:2; NA (no aplica),Todas las viviendas particulares,"26,070",
+Vivienda,p3b_estado_ocupacion,3b. Estado de ocupación de la vivienda (detalle),1,Moradores presentes,1:10; NA (no aplica),Todas las viviendas particulares,"6,408,172",
+Vivienda,p3b_estado_ocupacion,3b. Estado de ocupación de la vivienda (detalle),2,Moradores ausentes,1:10; NA (no aplica),Todas las viviendas particulares,"208,084",
+Vivienda,p3b_estado_ocupacion,3b. Estado de ocupación de la vivienda (detalle),6,Otras razones de no entrevista,1:10; NA (no aplica),Todas las viviendas particulares,"114,207",
+Vivienda,p3b_estado_ocupacion,3b. Estado de ocupación de la vivienda (detalle),7,En venta o arriendo,1:10; NA (no aplica),Todas las viviendas particulares,"173,315",
+Vivienda,p3b_estado_ocupacion,3b. Estado de ocupación de la vivienda (detalle),8,Vivienda de temporada (veraneo o de uso temporal),1:10; NA (no aplica),Todas las viviendas particulares,"476,135",
+Vivienda,p3b_estado_ocupacion,3b. Estado de ocupación de la vivienda (detalle),9,Abandonada,1:10; NA (no aplica),Todas las viviendas particulares,"97,052",
+Vivienda,p3b_estado_ocupacion,3b. Estado de ocupación de la vivienda (detalle),10,Otra razón de desocupación,1:10; NA (no aplica),Todas las viviendas particulares,"161,431",
+Vivienda,p3b_estado_ocupacion,3b. Estado de ocupación de la vivienda (detalle),NA,No aplica,1:10; NA (no aplica),Todas las viviendas particulares,"26,070",
+Vivienda,p4a_mat_paredes,4a. ¿Cuál es el material de construcción en las paredes exteriores? ,1,Hormigón armado,"1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,499,949",
+Vivienda,p4a_mat_paredes,4a. ¿Cuál es el material de construcción en las paredes exteriores? ,2,"Albañilería: bloque de cemento, ladrillo o piedra","1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"2,754,185",
+Vivienda,p4a_mat_paredes,4a. ¿Cuál es el material de construcción en las paredes exteriores? ,3,Tabique forrado por ambas caras (madera o acero),"1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,854,738",
+Vivienda,p4a_mat_paredes,4a. ¿Cuál es el material de construcción en las paredes exteriores? ,4,Tabique sin forro interior (madera u otro),"1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"176,313",
+Vivienda,p4a_mat_paredes,4a. ¿Cuál es el material de construcción en las paredes exteriores? ,5,"Adobe, barro, pirca, quincha u otro material artesanal","1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"106,790",
+Vivienda,p4a_mat_paredes,4a. ¿Cuál es el material de construcción en las paredes exteriores? ,6,"Materiales precarios o de desecho: cartón, sacos, trozos de latas o plásticos, etc.","1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"14,752",
+Vivienda,p4a_mat_paredes,4a. ¿Cuál es el material de construcción en las paredes exteriores? ,-99,No respuesta,"1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,445",
+Vivienda,p4a_mat_paredes,4a. ¿Cuál es el material de construcción en las paredes exteriores? ,NA,No aplica,"1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,256,294",
+Vivienda,p4b_mat_techo,4b. ¿Cuál es el material de construcción en la cubierta del techo? ,1,"Tejas o tejuelas de arcilla, metálicas, de cemento, de madera, asfálticas o plásticas","1:8; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,069,613",
+Vivienda,p4b_mat_techo,4b. ¿Cuál es el material de construcción en la cubierta del techo? ,2,Losa hormigón,"1:8; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"958,191",
+Vivienda,p4b_mat_techo,4b. ¿Cuál es el material de construcción en la cubierta del techo? ,3,"Planchas metálicas de zinc, cobre, etc","1:8; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"3,658,013",
+Vivienda,p4b_mat_techo,4b. ¿Cuál es el material de construcción en la cubierta del techo? ,4,Planchas de fibrocemento tipo pizarreño,"1:8; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"699,395",
+Vivienda,p4b_mat_techo,4b. ¿Cuál es el material de construcción en la cubierta del techo? ,5,Fonolita o plancha de fieltro embreado,"1:8; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"10,847",
+Vivienda,p4b_mat_techo,4b. ¿Cuál es el material de construcción en la cubierta del techo? ,6,"Paja, coirón, totora o caña","1:8; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,090",
+Vivienda,p4b_mat_techo,4b. ¿Cuál es el material de construcción en la cubierta del techo? ,7,"Materiales precarios o de desecho: cartón, sacos, trozos de latas o plásticos, etc","1:8; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"6,800",
+Vivienda,p4b_mat_techo,4b. ¿Cuál es el material de construcción en la cubierta del techo? ,8,Sin cubierta sólida de techo,"1:8; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,872",
+Vivienda,p4b_mat_techo,4b. ¿Cuál es el material de construcción en la cubierta del techo? ,-99,No respuesta,"1:8; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"2,351",
+Vivienda,p4b_mat_techo,4b. ¿Cuál es el material de construcción en la cubierta del techo? ,NA,No aplica,"1:8; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,256,294",
+Vivienda,p4c_mat_piso,4c. ¿Cuál es el material de construcción en el piso? ,1,"Parquet, piso flotante, cerámico, madera, alfombra, flexit, cubrepiso u otro similar; sobre radier o vigas de madera","1:5; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"6,036,357",
+Vivienda,p4c_mat_piso,4c. ¿Cuál es el material de construcción en el piso? ,2,Radier sin revestimiento,"1:5; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"145,177",
+Vivienda,p4c_mat_piso,4c. ¿Cuál es el material de construcción en el piso? ,3,Baldosa de cemento,"1:5; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"143,611",
+Vivienda,p4c_mat_piso,4c. ¿Cuál es el material de construcción en el piso? ,4,Capa de cemento sobre tierra,"1:5; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"63,853",
+Vivienda,p4c_mat_piso,4c. ¿Cuál es el material de construcción en el piso? ,5,Tierra,"1:5; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"17,010",
+Vivienda,p4c_mat_piso,4c. ¿Cuál es el material de construcción en el piso? ,-99,No respuesta,"1:5; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"2,164",
+Vivienda,p4c_mat_piso,4c. ¿Cuál es el material de construcción en el piso? ,NA,No aplica,"1:5; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,256,294",
+Vivienda,p5_num_dormitorios,5. ¿Cuántas piezas de esta vivienda se usan exclusivamente como dormitorio? ,0,0,"0:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"36,835",
+Vivienda,p5_num_dormitorios,5. ¿Cuántas piezas de esta vivienda se usan exclusivamente como dormitorio? ,1,"
+1","0:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,575,168",
+Vivienda,p5_num_dormitorios,5. ¿Cuántas piezas de esta vivienda se usan exclusivamente como dormitorio? ,2,"
+2","0:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"2,419,639",
+Vivienda,p5_num_dormitorios,5. ¿Cuántas piezas de esta vivienda se usan exclusivamente como dormitorio? ,3,"
+3","0:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,785,285",
+Vivienda,p5_num_dormitorios,5. ¿Cuántas piezas de esta vivienda se usan exclusivamente como dormitorio? ,4,"
+4","0:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"451,532",
+Vivienda,p5_num_dormitorios,5. ¿Cuántas piezas de esta vivienda se usan exclusivamente como dormitorio? ,5,"
+5","0:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"100,036",
+Vivienda,p5_num_dormitorios,5. ¿Cuántas piezas de esta vivienda se usan exclusivamente como dormitorio? ,6,"
+6 o más","0:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"38,643",
+Vivienda,p5_num_dormitorios,5. ¿Cuántas piezas de esta vivienda se usan exclusivamente como dormitorio? ,-99,No respuesta,"0:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,034",
+Vivienda,p5_num_dormitorios,5. ¿Cuántas piezas de esta vivienda se usan exclusivamente como dormitorio? ,NA,No aplica,"0:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,256,294",
+Vivienda,p6_fuente_agua,6. El agua que usa esta vivienda proviene principalmente de: ,1,Red pública,"1:4; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"5,914,136",
+Vivienda,p6_fuente_agua,6. El agua que usa esta vivienda proviene principalmente de: ,2,Pozo o noria,"1:4; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"263,309",
+Vivienda,p6_fuente_agua,6. El agua que usa esta vivienda proviene principalmente de: ,,Camión aljibe,"1:4; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"131,141",
+Vivienda,p6_fuente_agua,6. El agua que usa esta vivienda proviene principalmente de: ,,"Río, vertiente, estero, canal, lago, agua lluvia, etc.","1:4; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"98,243",
+Vivienda,p6_fuente_agua,6. El agua que usa esta vivienda proviene principalmente de: ,-99,No respuesta,"1:4; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,343",
+Vivienda,p6_fuente_agua,6. El agua que usa esta vivienda proviene principalmente de: ,NA,No aplica,"1:4; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,256,294",
+Vivienda,p7_distrib_agua,7. ¿Cuál es el sistema de distribución del agua en esta vivienda? ,1,Con llave dentro de la vivienda,"1:3; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"6,196,815",
+Vivienda,p7_distrib_agua,7. ¿Cuál es el sistema de distribución del agua en esta vivienda? ,2,"Con llave dentro del sitio, pero fuera de la vivienda","1:3; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"160,098",
+Vivienda,p7_distrib_agua,7. ¿Cuál es el sistema de distribución del agua en esta vivienda? ,3,"No tiene sistema, la acarrea","1:3; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"49,617",
+Vivienda,p7_distrib_agua,7. ¿Cuál es el sistema de distribución del agua en esta vivienda? ,-99,No respuesta,"1:3; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,642",
+Vivienda,p7_distrib_agua,7. ¿Cuál es el sistema de distribución del agua en esta vivienda? ,NA,No aplica,"1:3; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,256,294",
+Vivienda,p8_serv_hig,8. El servicio higiénico (WC) principal de esta vivienda es o está: ,1,"Dentro de la vivienda, conectado a una red de alcantarillado","1:9; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"5,344,651",
+Vivienda,p8_serv_hig,8. El servicio higiénico (WC) principal de esta vivienda es o está: ,2,"Fuera de la vivienda, conectado a una red de alcantarillado","1:9; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"104,723",
+Vivienda,p8_serv_hig,8. El servicio higiénico (WC) principal de esta vivienda es o está: ,3,Conectado a una fosa séptica,"1:9; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"767,214",
+Vivienda,p8_serv_hig,8. El servicio higiénico (WC) principal de esta vivienda es o está: ,4,Conectado a pozo negro (letrina sanitaria o cajón),"1:9; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"164,499",
+Vivienda,p8_serv_hig,8. El servicio higiénico (WC) principal de esta vivienda es o está: ,5,En un cajón sobre acequia o canal,"1:9; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"3,868",
+Vivienda,p8_serv_hig,8. El servicio higiénico (WC) principal de esta vivienda es o está: ,6,En un cajón conectado a otro sistema,"1:9; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"2,310",
+Vivienda,p8_serv_hig,8. El servicio higiénico (WC) principal de esta vivienda es o está: ,7,Baño químico,"1:9; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"2,141",
+Vivienda,p8_serv_hig,8. El servicio higiénico (WC) principal de esta vivienda es o está: ,8,Conectado a baño seco,"1:9; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"2,443",
+Vivienda,p8_serv_hig,8. El servicio higiénico (WC) principal de esta vivienda es o está: ,9,No tiene servicio higiénico,"1:9; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"14,794",
+Vivienda,p8_serv_hig,8. El servicio higiénico (WC) principal de esta vivienda es o está: ,-99,No respuesta,"1:9; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,529",
+Vivienda,p8_serv_hig,8. El servicio higiénico (WC) principal de esta vivienda es o está: ,NA,No aplica,"1:9; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,256,294",
+Vivienda,p9_fuente_elect,9. La electricidad de esta vivienda proviene principalmente de: ,1,Red pública,"1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"6,316,147",
+Vivienda,p9_fuente_elect,9. La electricidad de esta vivienda proviene principalmente de: ,2,Generador con diésel o bencina,"1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"16,021",
+Vivienda,p9_fuente_elect,9. La electricidad de esta vivienda proviene principalmente de: ,3,Placa solar,"1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"32,343",
+Vivienda,p9_fuente_elect,9. La electricidad de esta vivienda proviene principalmente de: ,4,Energía eólica (viento),"1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,695,
+Vivienda,p9_fuente_elect,9. La electricidad de esta vivienda proviene principalmente de: ,5,Otro,"1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"16,430",
+Vivienda,p9_fuente_elect,9. La electricidad de esta vivienda proviene principalmente de: ,6,No tiene energía eléctrica,"1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"24,917",
+Vivienda,p9_fuente_elect,9. La electricidad de esta vivienda proviene principalmente de: ,-99,No respuesta,"1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,619",
+Vivienda,p9_fuente_elect,9. La electricidad de esta vivienda proviene principalmente de: ,NA,No aplica,"1:6; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,256,294",
+Vivienda,p10_basura,10. ¿Cuál es el principal medio de eliminación de basura de esta vivienda? ,1,La recogen los servicios de aseo,"1:5; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"6,221,171",
+Vivienda,p10_basura,10. ¿Cuál es el principal medio de eliminación de basura de esta vivienda? ,2,La entierra y/o quema,"1:5; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"111,904",
+Vivienda,p10_basura,10. ¿Cuál es el principal medio de eliminación de basura de esta vivienda? ,3,"La deja en terreno eriazo, quebrada o zanja","1:5; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"14,058",
+Vivienda,p10_basura,10. ¿Cuál es el principal medio de eliminación de basura de esta vivienda? ,4,"La tira al río, laguna o mar","1:5; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,009",
+Vivienda,p10_basura,10. ¿Cuál es el principal medio de eliminación de basura de esta vivienda? ,5,Otro,"1:5; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"58,798",
+Vivienda,p10_basura,10. ¿Cuál es el principal medio de eliminación de basura de esta vivienda? ,-99,No respuesta,"1:5; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,232",
+Vivienda,p10_basura,10. ¿Cuál es el principal medio de eliminación de basura de esta vivienda? ,NA,No aplica,"1:5; 
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,256,294",
+Vivienda,p11a_num_personas,11. ¿Cuántas personas residen habitualmente en esta vivienda? ,1:60,,"1:60;
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"6,408,172",
+Vivienda,p11a_num_personas,11. ¿Cuántas personas residen habitualmente en esta vivienda? ,NA,,"1:60;
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,256,294",
+Vivienda,p11b_comparte_gasto,"11.1. De las personas que residen habitualmente en esta vivienda, ¿todas comparten los gastos para alimentación? ",1,Sí,1:2; NA (no aplica),Todas las viviendas particulares ocupadas con moradores presentes,"4,965,946",
+Vivienda,p11b_comparte_gasto,"11.1. De las personas que residen habitualmente en esta vivienda, ¿todas comparten los gastos para alimentación? ",2,No,1:2; NA (no aplica),Todas las viviendas particulares ocupadas con moradores presentes,"153,693",
+Vivienda,p11b_comparte_gasto,"11.1. De las personas que residen habitualmente en esta vivienda, ¿todas comparten los gastos para alimentación? ",NA,,1:2; NA (no aplica),Todas las viviendas particulares ocupadas con moradores presentes,"2,544,827",
+Vivienda,p11c_num_hogar,11.2. ¿Cuántos grupos tienen gastos separados de alimentación? ,2:26,,"2:26; 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"153,693",
+Vivienda,p11c_num_hogar,11.2. ¿Cuántos grupos tienen gastos separados de alimentación? ,NA,,"2:26; 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"7,510,773",
+Vivienda,cant_per,Número de personas censadas en la vivienda,0:5806,,0:5806,Todos los registros,"7,664,466",
+Vivienda,cant_hog,Número de hogares censados en la vivienda particular,0:26,,0:26; NA (no aplica),Todas las viviendas particulares,"7,638,396",
+Vivienda,cant_hog,Número de hogares censados en la vivienda particular,NA,No aplica,0:26; NA (no aplica),Todas las viviendas particulares,"26,070",
+Vivienda,indice_hacinamiento,Índice de hacinamiento,1,Vivienda sin hacinamiento,"1:3;
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"6,039,952",
+Vivienda,indice_hacinamiento,Índice de hacinamiento,2,Vivienda con hacinamiento medio,"1:3;
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"330,955",
+Vivienda,indice_hacinamiento,Índice de hacinamiento,3,Vivienda con hacinamiento crítico,"1:3;
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"36,231",
+Vivienda,indice_hacinamiento,Índice de hacinamiento,-99,No respuesta,"1:3;
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,034",
+Vivienda,indice_hacinamiento,Índice de hacinamiento,NA,No aplica,"1:3;
+-99 (no respuesta); 
+NA (no aplica)",Todas las viviendas particulares ocupadas con moradores presentes,"1,256,294",
+Vivienda,comuna_bajo_umbral,Comuna con menos de 6.000 personas censadas,1,Sí,1:2,Todos los registros,"99,321",
+Vivienda,comuna_bajo_umbral,Comuna con menos de 6.000 personas censadas,2,No,1:2,Todos los registros,"7,565,145",

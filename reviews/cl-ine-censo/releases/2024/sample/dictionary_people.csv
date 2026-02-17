@@ -1,0 +1,612 @@
+Entidad,Nombre variable,Descripción de la variable,Valor,Etiqueta de categoría,Rango,Universo,Conteo,,
+Persona,id_vivienda,Llave identificadora de la vivienda o de la entrevista,1:7664466,Válidos,1:7664466,Todos los registros,"18,480,432",,
+Persona,id_hogar,Llave identificadora de hogar,0:26,Válidos,0:26,Todos los registros,"18,480,432",,
+Persona,id_persona,Llave identificadora de persona,0:5806,Válidos,0:5806,Todos los registros,"18,480,432",,
+Persona,region,Región,1:16,Ver diccionario códigos territoriales,1:16,Todos los registros,"18,480,432",,
+Persona,provincia,Provincia,11:163,Ver diccionario códigos territoriales,11:163,Todos los registros,"18,480,432",,
+Persona,comuna,Comuna,1101:16305,Ver diccionario códigos territoriales,1101:16305,Todos los registros,"18,480,432",,
+Persona,area,Área urbana o rural,1,Urbano,1:2,Todos los registros,"16,018,474",,
+Persona,area,Área urbana o rural,2,Rural,1:2,Todos los registros,"2,461,958",,
+Persona,tipo_operativo,Tipo de operativo ,1,Persona en situación de calle,1:3,Todos los registros,"21,750",,
+Persona,tipo_operativo,Tipo de operativo,2,Vivienda particular,1:3,Todos los registros,"18,339,655",,
+Persona,tipo_operativo,Tipo de operativo,3,Vivienda colectiva,1:3,Todos los registros,"119,027",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,1,Jefe/a de hogar,"1:17, 19",Todas las personas,"6,596,527",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,2,Esposo/a o cónyuge,"1:17, 19",Todas las personas,"2,090,815",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,3,Conviviente por unión civil,"1:17, 19",Todas las personas,"61,672",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,4,Conviviente de hecho o pareja,"1:17, 19",Todas las personas,"1,226,712",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,5,Hijo/a,"1:17, 19",Todas las personas,"5,861,272",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,6,"Hijo/a del cónyuge, conviviente o pareja","1:17, 19",Todas las personas,"200,617",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,7,Hermano/a,"1:17, 19",Todas las personas,"281,643",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,8,Padre/Madre,"1:17, 19",Todas las personas,"247,279",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,9,Cuñado/a,"1:17, 19",Todas las personas,"59,280",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,10,Suegro/a,"1:17, 19",Todas las personas,"73,702",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,11,Yerno/Nuera,"1:17, 19",Todas las personas,"193,892",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,12,Nieto/a,"1:17, 19",Todas las personas,"853,354",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,13,Abuelo/a,"1:17, 19",Todas las personas,"10,030",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,14,Otro Pariente,"1:17, 19",Todas las personas,"330,270",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,15,No Pariente,"1:17, 19",Todas las personas,"236,858",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,16,Servicio doméstico puertas adentro,"1:17, 19",Todas las personas,"15,732",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,17,Persona en vivienda colectiva,"1:17, 19",Todas las personas,"119,027",,
+Persona,parentesco,19. ¿Qué relación de parentesco tiene con la jefa o jefe de hogar?,19,Persona en operativo calle,"1:17, 19",Todas las personas,"21,750",,
+Persona,sexo,20. ¿Cuál es su sexo? ,1,Hombre,1:2,Todas las personas,"8,967,033",,
+Persona,sexo,20. ¿Cuál es su sexo? ,2,Mujer,1:2,Todas las personas,"9,513,399",,
+Persona,edad,21. ¿Cuántos años cumplidos tiene? ,0:85,Válidos,0:85; -66 (anonimizado),Todas las personas,"18,329,233",,
+Persona,edad,21. ¿Cuántos años cumplidos tiene? ,-66,Valor suprimido por anonimización,0:85; -66 (anonimizado),Todas las personas,"151,199",,
+Persona,edad_quinquenal,Edad en quinquenios,0,0-4,0:85,Todas las personas,"870,693",,
+Persona,edad_quinquenal,Edad en quinquenios,5,5-9,0:85,Todas las personas,"1,147,515",,
+Persona,edad_quinquenal,Edad en quinquenios,10,10-14,0:85,Todas las personas,"1,256,440",,
+Persona,edad_quinquenal,Edad en quinquenios,15,15-19,0:85,Todas las personas,"1,219,347",,
+Persona,edad_quinquenal,Edad en quinquenios,20,20-24,0:85,Todas las personas,"1,273,193",,
+Persona,edad_quinquenal,Edad en quinquenios,25,25-29,0:85,Todas las personas,"1,383,669",,
+Persona,edad_quinquenal,Edad en quinquenios,30,30-34,0:85,Todas las personas,"1,527,489",,
+Persona,edad_quinquenal,Edad en quinquenios,35,35-39,0:85,Todas las personas,"1,408,198",,
+Persona,edad_quinquenal,Edad en quinquenios,40,40-44,0:85,Todas las personas,"1,270,493",,
+Persona,edad_quinquenal,Edad en quinquenios,45,45-49,0:85,Todas las personas,"1,151,776",,
+Persona,edad_quinquenal,Edad en quinquenios,50,50-54,0:85,Todas las personas,"1,173,352",,
+Persona,edad_quinquenal,Edad en quinquenios,55,55-59,0:85,Todas las personas,"1,133,239",,
+Persona,edad_quinquenal,Edad en quinquenios,60,60-64,0:85,Todas las personas,"1,077,790",,
+Persona,edad_quinquenal,Edad en quinquenios,65,65-69,0:85,Todas las personas,"870,801",,
+Persona,edad_quinquenal,Edad en quinquenios,70,70-74,0:85,Todas las personas,"646,241",,
+Persona,edad_quinquenal,Edad en quinquenios,75,75-79,0:85,Todas las personas,"477,186",,
+Persona,edad_quinquenal,Edad en quinquenios,80,80-84,0:85,Todas las personas,"317,424",,
+Persona,edad_quinquenal,Edad en quinquenios,85,85 o más,0:85,Todas las personas,"275,586",,
+Persona,p23_est_civil,23. ¿Cuál es su estado conyugal o civil actual? ,1,Casado/a,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"4,608,520",,
+Persona,p23_est_civil,23. ¿Cuál es su estado conyugal o civil actual? ,2,Conviviente o pareja sin acuerdo de unión civil,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"2,638,561",,
+Persona,p23_est_civil,23. ¿Cuál es su estado conyugal o civil actual? ,3,Conviviente civil (con acuerdo de unión civil),"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"133,624",,
+Persona,p23_est_civil,23. ¿Cuál es su estado conyugal o civil actual? ,4,Anulado/a,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"16,450",,
+Persona,p23_est_civil,23. ¿Cuál es su estado conyugal o civil actual? ,5,Separado/a,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"462,915",,
+Persona,p23_est_civil,23. ¿Cuál es su estado conyugal o civil actual? ,6,Divorciado/a,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"482,427",,
+Persona,p23_est_civil,23. ¿Cuál es su estado conyugal o civil actual? ,7,Viudo/a,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"740,311",,
+Persona,p23_est_civil,23. ¿Cuál es su estado conyugal o civil actual? ,8,Soltero/a,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"6,068,849",,
+Persona,p23_est_civil,23. ¿Cuál es su estado conyugal o civil actual? ,-99,No respuesta,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"54,127",,
+Persona,p23_est_civil,23. ¿Cuál es su estado conyugal o civil actual? ,NA,No aplica,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"3,274,648",,
+Persona,p24_lug_resid5,24. ¿En qué comuna o país vivía en abril de 2019? ,1,Aún no nacía,"1:4;
+-99 (no respuesta)",Todas las personas,"870,693",,
+Persona,p24_lug_resid5,24. ¿En qué comuna o país vivía en abril de 2019? ,2,En esta comuna,"1:4;
+-99 (no respuesta)",Todas las personas,"14,426,941",,
+Persona,p24_lug_resid5,24. ¿En qué comuna o país vivía en abril de 2019? ,3,En otra comuna,"1:4;
+-99 (no respuesta)",Todas las personas,"2,442,116",,
+Persona,p24_lug_resid5,24. ¿En qué comuna o país vivía en abril de 2019? ,4,En otro país,"1:4;
+-99 (no respuesta)",Todas las personas,"604,170",,
+Persona,p24_lug_resid5,24. ¿En qué comuna o país vivía en abril de 2019? ,-99,No respuesta,"1:4;
+-99 (no respuesta)",Todas las personas,"136,512",,
+Persona,p24_lug_resid5_esp,Lugar específico de residencia hace 5 años,2:16305,Ver diccionario códigos territoriales específicos,2:16305; -66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"17,466,038",,
+Persona,p24_lug_resid5_esp,Lugar específico de residencia hace 5 años,-99,No respuesta en país de residencia hace 5 años,2:16305; -66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"141,242",,
+Persona,p24_lug_resid5_esp,Lugar específico de residencia hace 5 años,NA,No aplica,2:16305; -66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"870,693",,
+Persona,p24_lug_resid5_esp,Lugar específico de residencia hace 5 años,-66,Valor suprimido por anonimización,2:16305; -66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"2,459",,
+Persona,p25_lug_nacimiento,"25. Cuándo nació, ¿en qué comuna o país vivía su madre? ",1,En esta comuna,"1:3;
+-99 (no respuesta)",Todas las personas,"9,457,200",,
+Persona,p25_lug_nacimiento,"25. Cuándo nació, ¿en qué comuna o país vivía su madre? ",2,En otra comuna,"1:3;
+-99 (no respuesta)",Todas las personas,"7,301,521",,
+Persona,p25_lug_nacimiento,"25. Cuándo nació, ¿en qué comuna o país vivía su madre? ",3,En otro país,"1:3;
+-99 (no respuesta)",Todas las personas,"1,608,650",,
+Persona,p25_lug_nacimiento,"25. Cuándo nació, ¿en qué comuna o país vivía su madre? ",-99,No respuesta,"1:3;
+-99 (no respuesta)",Todas las personas,"113,061",,
+Persona,p25_lug_nacimiento_rec,Nació en Chile,1,Sí,"1:3;
+-99 (no respuesta)",Todas las personas,"16,758,721",,
+Persona,p25_lug_nacimiento_rec,Nació en Chile,2,No,"1:3;
+-99 (no respuesta)",Todas las personas,"1,608,650",,
+Persona,p25_lug_nacimiento_rec,Nació en Chile,-99,No respuesta,"1:3;
+-99 (no respuesta)",Todas las personas,"113,061",,
+Persona,p25_lug_nacimiento_esp,Lugar específico de nacimiento,2:16305,Ver diccionario códigos territoriales específicos,2:16305;-66 (anonimizado);-99 (no respuesta),Todas las personas,"18,191,426",,
+Persona,p25_lug_nacimiento_esp,Lugar específico de nacimiento,-99,No respuesta,2:16305;-66 (anonimizado);-99 (no respuesta),Todas las personas,"137,807",,
+Persona,p25_lug_nacimiento_esp,Lugar específico de nacimiento,-66,Valor suprimido por anonimización,2:16305;-66 (anonimizado);-99 (no respuesta),Todas las personas,"151,199",,
+Persona,p26_llegada_periodo,26. ¿En qué año llegó a vivir a Chile? ,1,Entre 2023 y 2024,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas que nacieron en otro país,"188,790",,
+Persona,p26_llegada_periodo,26. ¿En qué año llegó a vivir a Chile? ,2,Entre 2020 y 2022,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas que nacieron en otro país,"366,878",,
+Persona,p26_llegada_periodo,26. ¿En qué año llegó a vivir a Chile? ,3,Entre 2017 y 2019,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas que nacieron en otro país,"533,689",,
+Persona,p26_llegada_periodo,26. ¿En qué año llegó a vivir a Chile? ,4,Entre 2014 y 2016,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas que nacieron en otro país,"190,158",,
+Persona,p26_llegada_periodo,26. ¿En qué año llegó a vivir a Chile? ,5,Entre 2010 y 2013,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas que nacieron en otro país,"111,485",,
+Persona,p26_llegada_periodo,26. ¿En qué año llegó a vivir a Chile? ,6,Entre 2000 y 2009,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas que nacieron en otro país,"121,553",,
+Persona,p26_llegada_periodo,26. ¿En qué año llegó a vivir a Chile? ,7,Entre 1990 y 1999,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas que nacieron en otro país,"54,026",,
+Persona,p26_llegada_periodo,26. ¿En qué año llegó a vivir a Chile? ,8,Antes de 1990,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas que nacieron en otro país,"36,811",,
+Persona,p26_llegada_periodo,26. ¿En qué año llegó a vivir a Chile? ,-99,No respuesta,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas que nacieron en otro país,"5,260",,
+Persona,p26_llegada_periodo,26. ¿En qué año llegó a vivir a Chile? ,NA,No aplica,"1:8;
+-99 (no respuesta);
+NA (no aplica)",Personas que nacieron en otro país,"16,871,782",,
+Persona,p27_nacionalidad,27. ¿Cuál es su nacionalidad? ,1,Chilena,1:3;-66 (anonimizado);- 99 (no respuesta),Todas las personas,"16,500,963",,
+Persona,p27_nacionalidad,27. ¿Cuál es su nacionalidad? ,2,Chilena y otra (doble nacionalidad),1:3;-66 (anonimizado);- 99 (no respuesta),Todas las personas,"242,909",,
+Persona,p27_nacionalidad,27. ¿Cuál es su nacionalidad? ,3,Otra nacionalidad,1:3;-66 (anonimizado);- 99 (no respuesta),Todas las personas,"1,484,478",,
+Persona,p27_nacionalidad,27. ¿Cuál es su nacionalidad? ,-99,No respuesta,1:3;-66 (anonimizado);- 99 (no respuesta),Todas las personas,"100,883",,
+Persona,p27_nacionalidad,27. ¿Cuál es su nacionalidad? ,-66,Valor suprimido por anonimización,1:3;-66 (anonimizado);- 99 (no respuesta),Todas las personas,"151,199",,
+Persona,p27_nacionalidad_esp,País de nacionalidad,2:862,Ver diccionario códigos territoriales específicos,2:862; -66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas,"18,226,433",,
+Persona,p27_nacionalidad_esp,País de nacionalidad,-99,No respuesta,2:16305; -66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas,"102,800",,
+Persona,p27_nacionalidad_esp,País de nacionalidad,-66,Valor suprimido por anonimización,2:16305; -66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas,"151,199",,
+Persona,p27_nacionalidad_rec,Nacionalidad chilena,1,Sí,1:2; -99 (no respuesta),Todas las personas,"16,889,540",,
+Persona,p27_nacionalidad_rec,Nacionalidad chilena,2,No,1:2; -99 (no respuesta),Todas las personas,"1,489,385",,
+Persona,p27_nacionalidad_rec,Nacionalidad chilena,-99,No respuesta,1:2; -99 (no respuesta),Todas las personas,"101,507",,
+Persona,p28_autoid_pueblo,28. ¿Es o se considera perteneciente a algún pueblo indígena u originario? ,1,Sí,1:2; -99 (no respuesta),Todas las personas,"2,105,863",,
+Persona,p28_autoid_pueblo,28. ¿Es o se considera perteneciente a algún pueblo indígena u originario? ,2,No,1:2; -99 (no respuesta),Todas las personas,"16,267,072",,
+Persona,p28_autoid_pueblo,28. ¿Es o se considera perteneciente a algún pueblo indígena u originario? ,-99,No respuesta,1:2; -99 (no respuesta),Todas las personas,"107,497",,
+Persona,p28_pueblo_pert,28. ¿A cuál?,1,Mapuche,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,"1,621,748",,
+Persona,p28_pueblo_pert,28. ¿A cuál?,2,Aymara,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,"175,353",,
+Persona,p28_pueblo_pert,28. ¿A cuál?,3,Rapa Nui,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,"4,383",,
+Persona,p28_pueblo_pert,28. ¿A cuál?,4,Atacameño o Lickanantay,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,"33,686",,
+Persona,p28_pueblo_pert,28. ¿A cuál?,5,Quechua,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,"43,779",,
+Persona,p28_pueblo_pert,28. ¿A cuál?,6,Colla,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,"20,075",,
+Persona,p28_pueblo_pert,28. ¿A cuál?,7,Diaguita,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,"150,692",,
+Persona,p28_pueblo_pert,28. ¿A cuál?,8,Kawésqar,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,868,,
+Persona,p28_pueblo_pert,28. ¿A cuál?,9,Yagán,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,397,,
+Persona,p28_pueblo_pert,28. ¿A cuál?,10,Chango,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,"10,244",,
+Persona,p28_pueblo_pert,28. ¿A cuál?,11,Selk’nam,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,143,,
+Persona,p28_pueblo_pert,28. ¿A cuál?,12,Otro,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,"20,630",,
+Persona,p28_pueblo_pert,28. ¿A cuál?,-99,No respuesta,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,"2,395",,
+Persona,p28_pueblo_pert,28. ¿A cuál?,-66,Valor suprimido por anonimización,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,"21,470",,
+Persona,p28_pueblo_pert,28. ¿A cuál?,NA,No aplica,1:12;-66 (anonimizado);-99 (no respuesta); NA (no aplica),Todas las personas que son o se consideran de algún pueblo indígena u originario,"16,374,569",,
+Persona,p29_afrodescendencia,"29. De acuerdo con sus antepasados, tradiciones y cultura, es o se considera: ",1,Afrodescendiente,"1:7; 
+-99 (no respuesta)",Todas las personas,"90,254",,
+Persona,p29_afrodescendencia,"29. De acuerdo con sus antepasados, tradiciones y cultura, es o se considera: ",2,Afrochileno/a,"1:7; 
+-99 (no respuesta)",Todas las personas,"35,711",,
+Persona,p29_afrodescendencia,"29. De acuerdo con sus antepasados, tradiciones y cultura, es o se considera: ",3,Negro/a,"1:7; 
+-99 (no respuesta)",Todas las personas,"11,771",,
+Persona,p29_afrodescendencia,"29. De acuerdo con sus antepasados, tradiciones y cultura, es o se considera: ",4,Del Pueblo Tribal Afrodescendiente Chileno,"1:7; 
+-99 (no respuesta)",Todas las personas,"10,066",,
+Persona,p29_afrodescendencia,"29. De acuerdo con sus antepasados, tradiciones y cultura, es o se considera: ",5,Moreno/a de Azapa,"1:7; 
+-99 (no respuesta)",Todas las personas,"6,162",,
+Persona,p29_afrodescendencia,"29. De acuerdo con sus antepasados, tradiciones y cultura, es o se considera: ",6,Negro/a de la Chimba,"1:7; 
+-99 (no respuesta)",Todas las personas,"1,463",,
+Persona,p29_afrodescendencia,"29. De acuerdo con sus antepasados, tradiciones y cultura, es o se considera: ",7,Ninguna de las anteriores,"1:7; 
+-99 (no respuesta)",Todas las personas,"18,195,851",,
+Persona,p29_afrodescendencia,"29. De acuerdo con sus antepasados, tradiciones y cultura, es o se considera: ",-99,No respuesta,"1:7; 
+-99 (no respuesta)",Todas las personas,"110,391",,
+Persona,p29_afrodescendencia,"29. De acuerdo con sus antepasados, tradiciones y cultura, es o se considera: ",-66,Valor suprimido por anonimización,"1:7; 
+-99 (no respuesta)",Todas las personas,"18,763",,
+Persona,p29_afrodescendencia_rec,Afrodescendencia,1,Sí,1:2;-66 (anonimizado);-99 (no respuesta),Todas las personas,"174,190",,
+Persona,p29_afrodescendencia_rec,Afrodescendencia,2,No,1:2;-66 (anonimizado);-99 (no respuesta),Todas las personas,"18,195,851",,
+Persona,p29_afrodescendencia_rec,Afrodescendencia,-99,No respuesta,1:2;-66 (anonimizado);-99 (no respuesta),Todas las personas,"110,391",,
+Persona,p30_lengua_indigena,30. ¿Habla o entiende una de las siguientes lenguas indígenas u originarias? ,1,Mapuzugún (lengua mapuche),1:9;-66 (anonimizado)-99 (no respuesta); NA (no aplica),Personas de 5 años o más,"380,780",,
+Persona,p30_lengua_indigena,30. ¿Habla o entiende una de las siguientes lenguas indígenas u originarias? ,2,Aymara,1:9;-66 (anonimizado)-99 (no respuesta); NA (no aplica),Personas de 5 años o más,"60,080",,
+Persona,p30_lengua_indigena,30. ¿Habla o entiende una de las siguientes lenguas indígenas u originarias? ,3,Quechua,1:9;-66 (anonimizado)-99 (no respuesta); NA (no aplica),Personas de 5 años o más,"37,837",,
+Persona,p30_lengua_indigena,30. ¿Habla o entiende una de las siguientes lenguas indígenas u originarias? ,4,Rapa Nui,1:9;-66 (anonimizado)-99 (no respuesta); NA (no aplica),Personas de 5 años o más,"6,376",,
+Persona,p30_lengua_indigena,30. ¿Habla o entiende una de las siguientes lenguas indígenas u originarias? ,5,Ckunza,1:9;-66 (anonimizado)-99 (no respuesta); NA (no aplica),Personas de 5 años o más,"2,541",,
+Persona,p30_lengua_indigena,30. ¿Habla o entiende una de las siguientes lenguas indígenas u originarias? ,6,Kawésqar,1:9;-66 (anonimizado)-99 (no respuesta); NA (no aplica),Personas de 5 años o más,546,,
+Persona,p30_lengua_indigena,30. ¿Habla o entiende una de las siguientes lenguas indígenas u originarias? ,7,Yagán,1:9;-66 (anonimizado)-99 (no respuesta); NA (no aplica),Personas de 5 años o más,710,,
+Persona,p30_lengua_indigena,30. ¿Habla o entiende una de las siguientes lenguas indígenas u originarias? ,8,Otra lengua indígena de Chile,1:9;-66 (anonimizado)-99 (no respuesta); NA (no aplica),Personas de 5 años o más,"17,604",,
+Persona,p30_lengua_indigena,30. ¿Habla o entiende una de las siguientes lenguas indígenas u originarias? ,9,No habla ni entiende ninguna lengua indígena de Chile,1:9;-66 (anonimizado)-99 (no respuesta); NA (no aplica),Personas de 5 años o más,"16,996,225",,
+Persona,p30_lengua_indigena,30. ¿Habla o entiende una de las siguientes lenguas indígenas u originarias? ,-99,No respuesta,1:9;-66 (anonimizado)-99 (no respuesta); NA (no aplica),Personas de 5 años o más,"103,050",,
+Persona,p30_lengua_indigena,30. ¿Habla o entiende una de las siguientes lenguas indígenas u originarias? ,-66,Valor suprimido por anonimización,1:9;-66 (anonimizado)-99 (no respuesta); NA (no aplica),Personas de 5 años o más,"3,990",,
+Persona,p30_lengua_indigena,30. ¿Habla o entiende una de las siguientes lenguas indígenas u originarias? ,NA,No aplica,1:9;-66 (anonimizado)-99 (no respuesta); NA (no aplica),Personas de 5 años o más,"870,693",,
+Persona,p30_lengua_indigena_rec,Habla o entiende alguna lengua originaria,1,Sí,"1:2; 
+-99 (no respuesta);
+NA (no aplica)",Personas de 5 años o más,"510,464",,
+Persona,p30_lengua_indigena_rec,Habla o entiende alguna lengua originaria,2,No,"1:2; 
+-99 (no respuesta);
+NA (no aplica)",Personas de 5 años o más,"16,996,225",,
+Persona,p30_lengua_indigena_rec,Habla o entiende alguna lengua originaria,-99,No respuesta,"1:2; 
+-99 (no respuesta);
+NA (no aplica)",Personas de 5 años o más,"103,050",,
+Persona,p30_lengua_indigena_rec,Habla o entiende alguna lengua originaria,NA,No aplica,"1:2; 
+-99 (no respuesta);
+NA (no aplica)",Personas de 5 años o más,"870,693",,
+Persona,p31_religion,31. ¿Cuál es su religión o credo? ,1,Católica,1:999;-66 (anonimizado); -99 (no respuesta);NA (no aplica),Personas de 15 años o más,"8,168,578",,
+Persona,p31_religion,31. ¿Cuál es su religión o credo? ,2,Evangélica o Protestante,1:999;-66 (anonimizado); -99 (no respuesta);NA (no aplica),Personas de 15 años o más,"2,466,199",,
+Persona,p31_religion,31. ¿Cuál es su religión o credo? ,5,Iglesia de Jesucristo de los Santos de los Últimos Días,1:999;-66 (anonimizado); -99 (no respuesta);NA (no aplica),Personas de 15 años o más,"91,796",,
+Persona,p31_religion,31. ¿Cuál es su religión o credo? ,10,Testigo de Jehová,1:999;-66 (anonimizado); -99 (no respuesta);NA (no aplica),Personas de 15 años o más,"112,688",,
+Persona,p31_religion,31. ¿Cuál es su religión o credo? ,12,Ninguna,1:999;-66 (anonimizado); -99 (no respuesta);NA (no aplica),Personas de 15 años o más,"3,903,308",,
+Persona,p31_religion,31. ¿Cuál es su religión o credo? ,999,Otra religión o credo,1:999;-66 (anonimizado); -99 (no respuesta);NA (no aplica),Personas de 15 años o más,"363,305",,
+Persona,p31_religion,31. ¿Cuál es su religión o credo? ,-99,No respuesta,1:999;-66 (anonimizado); -99 (no respuesta);NA (no aplica),Personas de 15 años o más,"87,515",,
+Persona,p31_religion,31. ¿Cuál es su religión o credo? ,-66,Valor suprimido por anonimización,1:999;-66 (anonimizado); -99 (no respuesta);NA (no aplica),Personas de 15 años o más,"12,395",,
+Persona,p31_religion,31. ¿Cuál es su religión o credo? ,NA,No aplica,1:999;-66 (anonimizado); -99 (no respuesta);NA (no aplica),Personas de 15 años o más,"3,274,648",,
+Persona,p31_religion_rec,Tiene religión o credo,1,Sí,"1:2; 
+-99 (no respuesta); 
+NA (no aplica)",Personas de 15 años o más,"11,214,961",,
+Persona,p31_religion_rec,Tiene religión o credo,2,No,"1:2; 
+-99 (no respuesta); 
+NA (no aplica)",Personas de 15 años o más,"3,903,308",,
+Persona,p31_religion_rec,Tiene religión o credo,-99,No respuesta,"1:2; 
+-99 (no respuesta); 
+NA (no aplica)",Personas de 15 años o más,"87,515",,
+Persona,p31_religion_rec,Tiene religión o credo,NA,No aplica,"1:2; 
+-99 (no respuesta); 
+NA (no aplica)",Personas de 15 años o más,"3,274,648",,
+Persona,p32a_dificultad_ver,"32. ¿Tiene dificultad para ver, aun usando anteojos o lentes? ",1,"No, sin dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"13,905,057",,
+Persona,p32a_dificultad_ver,"32. ¿Tiene dificultad para ver, aun usando anteojos o lentes? ",2,"Sí, algo de dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"2,758,800",,
+Persona,p32a_dificultad_ver,"32. ¿Tiene dificultad para ver, aun usando anteojos o lentes? ",3,"Sí, mucha dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"795,335",,
+Persona,p32a_dificultad_ver,"32. ¿Tiene dificultad para ver, aun usando anteojos o lentes? ",4,No puede hacerlo,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"51,667",,
+Persona,p32a_dificultad_ver,"32. ¿Tiene dificultad para ver, aun usando anteojos o lentes? ",-99,No respuesta,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"98,880",,
+Persona,p32a_dificultad_ver,"32. ¿Tiene dificultad para ver, aun usando anteojos o lentes? ",NA,No aplica,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"870,693",,
+Persona,p32b_dificultad_oir,"32. ¿Tiene dificultad para oír, aun usando un dispositivo auditivo  ",1,"No, sin dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"16,144,858",,
+Persona,p32b_dificultad_oir,"32. ¿Tiene dificultad para oír, aun usando un dispositivo auditivo  ",2,"Sí, algo de dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"964,940",,
+Persona,p32b_dificultad_oir,"32. ¿Tiene dificultad para oír, aun usando un dispositivo auditivo  ",3,"Sí, mucha dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"357,490",,
+Persona,p32b_dificultad_oir,"32. ¿Tiene dificultad para oír, aun usando un dispositivo auditivo  ",4,No puede hacerlo,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"41,580",,
+Persona,p32b_dificultad_oir,"32. ¿Tiene dificultad para oír, aun usando un dispositivo auditivo  ",-99,No respuesta,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"100,871",,
+Persona,p32b_dificultad_oir,"32. ¿Tiene dificultad para oír, aun usando un dispositivo auditivo  ",NA,No aplica,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"870,693",,
+Persona,p32c_dificultad_mover,32. ¿Tiene dificultad para caminar o subir escaleras? ,1,"No, sin dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"15,289,715",,
+Persona,p32c_dificultad_mover,32. ¿Tiene dificultad para caminar o subir escaleras? ,2,"Sí, algo de dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"1,307,950",,
+Persona,p32c_dificultad_mover,32. ¿Tiene dificultad para caminar o subir escaleras? ,3,"Sí, mucha dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"759,016",,
+Persona,p32c_dificultad_mover,32. ¿Tiene dificultad para caminar o subir escaleras? ,4,No puede hacerlo,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"149,696",,
+Persona,p32c_dificultad_mover,32. ¿Tiene dificultad para caminar o subir escaleras? ,-99,No respuesta,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"103,362",,
+Persona,p32c_dificultad_mover,32. ¿Tiene dificultad para caminar o subir escaleras? ,NA,No aplica,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"870,693",,
+Persona,p32d_dificultad_cogni,32. ¿Tiene dificultad para recordar o concentrarse? ,1,"No, sin dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"15,198,358",,
+Persona,p32d_dificultad_cogni,32. ¿Tiene dificultad para recordar o concentrarse? ,2,"Sí, algo de dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"1,808,201",,
+Persona,p32d_dificultad_cogni,32. ¿Tiene dificultad para recordar o concentrarse? ,3,"Sí, mucha dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"424,594",,
+Persona,p32d_dificultad_cogni,32. ¿Tiene dificultad para recordar o concentrarse? ,4,No puede hacerlo,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"73,643",,
+Persona,p32d_dificultad_cogni,32. ¿Tiene dificultad para recordar o concentrarse? ,-99,No respuesta,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"104,943",,
+Persona,p32d_dificultad_cogni,32. ¿Tiene dificultad para recordar o concentrarse? ,NA,No aplica,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"870,693",,
+Persona,p32e_dificultad_cuidado,"32. ¿Tiene dificultad para realizar tareas de cuidado personal, como bañarse o vestirse? ",1,"No, sin dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"16,880,403",,
+Persona,p32e_dificultad_cuidado,"32. ¿Tiene dificultad para realizar tareas de cuidado personal, como bañarse o vestirse? ",2,"Sí, algo de dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"324,960",,
+Persona,p32e_dificultad_cuidado,"32. ¿Tiene dificultad para realizar tareas de cuidado personal, como bañarse o vestirse? ",3,"Sí, mucha dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"155,590",,
+Persona,p32e_dificultad_cuidado,"32. ¿Tiene dificultad para realizar tareas de cuidado personal, como bañarse o vestirse? ",4,No puede hacerlo,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"146,513",,
+Persona,p32e_dificultad_cuidado,"32. ¿Tiene dificultad para realizar tareas de cuidado personal, como bañarse o vestirse? ",-99,No respuesta,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"102,273",,
+Persona,p32e_dificultad_cuidado,"32. ¿Tiene dificultad para realizar tareas de cuidado personal, como bañarse o vestirse? ",NA,No aplica,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"870,693",,
+Persona,p32f_dificultad_comunic,"32. ¿Tiene dificultad para hablar o comunicarse usando su idioma habitual, por ejemplo, entender o ser entendido por otras personas? ",1,"No, sin dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"17,002,154",,
+Persona,p32f_dificultad_comunic,"32. ¿Tiene dificultad para hablar o comunicarse usando su idioma habitual, por ejemplo, entender o ser entendido por otras personas? ",2,"Sí, algo de dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"307,637",,
+Persona,p32f_dificultad_comunic,"32. ¿Tiene dificultad para hablar o comunicarse usando su idioma habitual, por ejemplo, entender o ser entendido por otras personas? ",3,"Sí, mucha dificultad",1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"127,428",,
+Persona,p32f_dificultad_comunic,"32. ¿Tiene dificultad para hablar o comunicarse usando su idioma habitual, por ejemplo, entender o ser entendido por otras personas? ",4,No puede hacerlo,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"72,283",,
+Persona,p32f_dificultad_comunic,"32. ¿Tiene dificultad para hablar o comunicarse usando su idioma habitual, por ejemplo, entender o ser entendido por otras personas? ",-99,No respuesta,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"100,237",,
+Persona,p32f_dificultad_comunic,"32. ¿Tiene dificultad para hablar o comunicarse usando su idioma habitual, por ejemplo, entender o ser entendido por otras personas? ",NA,No aplica,1:4; -99 (no respuesta); NA (no aplica),Personas de 5 años o más,"870,693",,
+Persona,discapacidad,Discapacidad,1,Con discapacidad,"1:2; 
+-99 (no respuesta);
+NA (no aplica)",Personas de 5 años o más,"1,950,388",,
+Persona,discapacidad,Discapacidad,2,Sin discapacidad,"1:2; 
+-99 (no respuesta);
+NA (no aplica)",Personas de 5 años o más,"15,561,356",,
+Persona,discapacidad,Discapacidad,-99,No respuesta,"1:2; 
+-99 (no respuesta);
+NA (no aplica)",Personas de 5 años o más,"97,995",,
+Persona,discapacidad,Discapacidad,NA,No aplica,"1:2; 
+-99 (no respuesta);
+NA (no aplica)",Personas de 5 años o más,"870,693",,
+Persona,p33_edu_asiste,"33. ¿Asiste actualmente a la educación formal? Incluye educación parvularia, especial, básica, media y superior ",1,"Sí
+",1:2; -99 (no respuesta),Todas las personas,"5,106,338",,
+Persona,p33_edu_asiste,"33. ¿Asiste actualmente a la educación formal? Incluye educación parvularia, especial, básica, media y superior ",2,No,1:2; -99 (no respuesta),Todas las personas,"13,274,483",,
+Persona,p33_edu_asiste,"33. ¿Asiste actualmente a la educación formal? Incluye educación parvularia, especial, básica, media y superior ",-99,No respuesta,1:2; -99 (no respuesta),Todas las personas,"99,611",,
+Persona,asistencia_parv,Asistencia a nivel de educación parvularia o preescolar,1,Sí,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 0 a 5 años,"555,041",,
+Persona,asistencia_parv,Asistencia a nivel de educación parvularia o preescolar,2,No,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 0 a 5 años,"506,360",,
+Persona,asistencia_parv,Asistencia a nivel de educación parvularia o preescolar,-99,No respuesta,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 0 a 5 años,"9,544",,
+Persona,asistencia_parv,Asistencia a nivel de educación parvularia o preescolar,-66,Valor suprimido por anonimización,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 0 a 5 años,"8,430",,
+Persona,asistencia_parv,Asistencia a nivel de educación parvularia o preescolar,NA,No aplica,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 0 a 5 años,"17,401,057",,
+Persona,asistencia_basica,Asistencia a nivel de educación básica,1,Sí,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 6 a 13 años,"1,822,358",,
+Persona,asistencia_basica,Asistencia a nivel de educación básica,2,No,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 6 a 13 años,"87,531",,
+Persona,asistencia_basica,Asistencia a nivel de educación básica,-99,No respuesta,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 6 a 13 años,"12,922",,
+Persona,asistencia_basica,Asistencia a nivel de educación básica,-66,Valor suprimido por anonimización,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 6 a 13 años,"15,076",,
+Persona,asistencia_basica,Asistencia a nivel de educación básica,NA,No aplica,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 6 a 13 años,"16,542,545",,
+Persona,asistencia_media,Asistencia a nivel de educación media,1,Sí,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 14 a 17 años,"858,688",,
+Persona,asistencia_media,Asistencia a nivel de educación media,2,No,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 14 a 17 años,"123,361",,
+Persona,asistencia_media,Asistencia a nivel de educación media,-99,No respuesta,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 14 a 17 años,"6,645",,
+Persona,asistencia_media,Asistencia a nivel de educación media,-66,Valor suprimido por anonimización,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 14 a 17 años,"7,975",,
+Persona,asistencia_media,Asistencia a nivel de educación media,NA,No aplica,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 14 a 17 años,"17,483,763",,
+Persona,asistencia_superior,Asistencia a nivel de educación superior,1,Sí,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 18 a 24 años,"808,427",,
+Persona,asistencia_superior,Asistencia a nivel de educación superior,2,No,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 18 a 24 años,"921,756",,
+Persona,asistencia_superior,Asistencia a nivel de educación superior,-99,No respuesta,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 18 a 24 años,"12,225",,
+Persona,asistencia_superior,Asistencia a nivel de educación superior,-66,Valor suprimido por anonimización,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 18 a 24 años,"10,849",,
+Persona,asistencia_superior,Asistencia a nivel de educación superior,NA,No aplica,1:2;-66 (anonimizado); -99 (no respuesta); NA (no aplica),Personas de 18 a 24 años,"16,727,175",,
+Persona,p37_alfabet,37. ¿Sabe leer y escribir? ,1,Sí,"1:2; 
+-99 (no respuesta);
+NA (no aplica)",Personas de 5 años o más,"16,769,140",,
+Persona,p37_alfabet,37. ¿Sabe leer y escribir? ,2,No,"1:2; 
+-99 (no respuesta);
+NA (no aplica)",Personas de 5 años o más,"725,905",,
+Persona,p37_alfabet,37. ¿Sabe leer y escribir? ,-99,No respuesta,"1:2; 
+-99 (no respuesta);
+NA (no aplica)",Personas de 5 años o más,"114,694",,
+Persona,p37_alfabet,37. ¿Sabe leer y escribir? ,NA,,"1:2; 
+-99 (no respuesta);
+NA (no aplica)",Personas de 5 años o más,"870,693",,
+Persona,escolaridad,Años de escolaridad,0:24,Válidos,0:24; -99 (no respuesta),Todas las personas,"18,348,374",,
+Persona,escolaridad,Años de escolaridad,-99,No respuesta,0:24; -99 (no respuesta),Todas las personas,"132,058",,
+Persona,cine11,Logro educativo de acuerdo con la Clasificación Internacional Normalizada de la Educación,1,01: Nunca cursó un programa educativo,1:12; -99 (no respuesta),Todas las personas,"552,698",,
+Persona,cine11,Logro educativo de acuerdo con la Clasificación Internacional Normalizada de la Educación,2,02: Educación de la primera infancia (incluye la forma parcial),1:12; -99 (no respuesta),Todas las personas,"821,251",,
+Persona,cine11,Logro educativo de acuerdo con la Clasificación Internacional Normalizada de la Educación,3,03: Primaria en forma parcial (sin conclusión del nivel),1:12; -99 (no respuesta),Todas las personas,"2,122,256",,
+Persona,cine11,Logro educativo de acuerdo con la Clasificación Internacional Normalizada de la Educación,4,10: Educación primaria (nivel 1) ,1:12; -99 (no respuesta),Todas las personas,"1,192,382",,
+Persona,cine11,Logro educativo de acuerdo con la Clasificación Internacional Normalizada de la Educación,5,"14: Educación primaria (nivel 2), con orientación general ",1:12; -99 (no respuesta),Todas las personas,"3,362,035",,
+Persona,cine11,Logro educativo de acuerdo con la Clasificación Internacional Normalizada de la Educación,6,"24: Educación secundaria, con orientación general",1:12; -99 (no respuesta),Todas las personas,"4,371,768",,
+Persona,cine11,Logro educativo de acuerdo con la Clasificación Internacional Normalizada de la Educación,7,"25: Educación secundaria, con orientación vocacional ",1:12; -99 (no respuesta),Todas las personas,"1,568,048",,
+Persona,cine11,Logro educativo de acuerdo con la Clasificación Internacional Normalizada de la Educación,8,"35: Educación terciaria de ciclo corto, con orientación vocacional",1:12; -99 (no respuesta),Todas las personas,"1,412,112",,
+Persona,cine11,Logro educativo de acuerdo con la Clasificación Internacional Normalizada de la Educación,9,"46: Grado de educación terciaria o nivel equivalente, con orientación no especificada",1:12; -99 (no respuesta),Todas las personas,"2,545,699",,
+Persona,cine11,Logro educativo de acuerdo con la Clasificación Internacional Normalizada de la Educación,10,"56: Nivel de maestría, especialización o equivalente, con orientación no especificada",1:12; -99 (no respuesta),Todas las personas,"277,835",,
+Persona,cine11,Logro educativo de acuerdo con la Clasificación Internacional Normalizada de la Educación,11,"64: Nivel de doctorado o equivalente, con orientación académica",1:12; -99 (no respuesta),Todas las personas,"31,694",,
+Persona,cine11,Logro educativo de acuerdo con la Clasificación Internacional Normalizada de la Educación,12,98: Educación especial o diferencial,1:12; -99 (no respuesta),Todas las personas,"100,691",,
+Persona,cine11,Logro educativo de acuerdo con la Clasificación Internacional Normalizada de la Educación,-99,No respuesta,1:12; -99 (no respuesta),Todas las personas,"121,963",,
+Persona,sit_fuerza_trabajo,Situación en la fuerza de trabajo,1,Ocupado,"1:3;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"8,277,501",,
+Persona,sit_fuerza_trabajo,Situación en la fuerza de trabajo,2,Desocupado,"1:3;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"777,920",,
+Persona,sit_fuerza_trabajo,Situación en la fuerza de trabajo,3,Fuera de la fuerza de trabajo,"1:3;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"6,060,837",,
+Persona,sit_fuerza_trabajo,Situación en la fuerza de trabajo,-99,No respuesta,"1:3;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"89,526",,
+Persona,sit_fuerza_trabajo,Situación en la fuerza de trabajo,NA,No aplica,"1:3;
+-99 (no respuesta);
+NA (no aplica)",Personas de 15 años o más,"3,274,648",,
+Persona,p40_cise_rec,40. ¿Trabajó cómo…? ,1,Independiente,"1:3;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"2,794,082",,
+Persona,p40_cise_rec,40. ¿Trabajó cómo…? ,2,Dependiente,"1:3;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"5,352,532",,
+Persona,p40_cise_rec,40. ¿Trabajó cómo…? ,3,Trabajador/a familiar o personal no remunerado en un negocio de un integrante de su familia,"1:3;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"127,429",,
+Persona,p40_cise_rec,40. ¿Trabajó cómo…? ,-99,No respuesta,"1:3;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"3,458",,
+Persona,p40_cise_rec,40. ¿Trabajó cómo…? ,NA,No aplica,"1:3;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"10,202,931",,
+Persona,depend_econ_deficit_hab,Dependencia económica,1,Económicamente independiente,1:2; -99 (no respuesta),Todas las personas,"10,417,681",,
+Persona,depend_econ_deficit_hab,Dependencia económica,2,Económicamente dependiente,1:2; -99 (no respuesta),Todas las personas,"7,970,061",,
+Persona,depend_econ_deficit_hab,Dependencia económica,-99,No respuesta,1:2; -99 (no respuesta),Todas las personas,"92,690",,
+Persona,cod_ciuo,CIUO-08.CL a 1 dígito,1,"Directores, gerentes y administradores","0:9, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"383,706",,
+Persona,cod_ciuo,CIUO-08.CL a 1 dígito,2,"Profesionales, científicos e intelectuales","0:9, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"1,490,307",,
+Persona,cod_ciuo,CIUO-08.CL a 1 dígito,3,Técnicos y profesionales de nivel medio,"0:9, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"884,233",,
+Persona,cod_ciuo,CIUO-08.CL a 1 dígito,4,Personal de apoyo administrativo,"0:9, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"518,314",,
+Persona,cod_ciuo,CIUO-08.CL a 1 dígito,5,Trabajadores de los servicios y vendedores de comercios y mercados,"0:9, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"1,622,622",,
+Persona,cod_ciuo,CIUO-08.CL a 1 dígito,6,"Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros","0:9, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"224,291",,
+Persona,cod_ciuo,CIUO-08.CL a 1 dígito,7,Artesanos y operarios de oficios,"0:9, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"1,038,385",,
+Persona,cod_ciuo,CIUO-08.CL a 1 dígito,8,"Operadores de instalaciones, máquinas y ensambladores ","0:9, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"662,440",,
+Persona,cod_ciuo,CIUO-08.CL a 1 dígito,9,Ocupaciones elementales,"0:9, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"1,132,704",,
+Persona,cod_ciuo,CIUO-08.CL a 1 dígito,0,Ocupaciones de las fuerza armadas,"0:9, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"24,165",,
+Persona,cod_ciuo,CIUO-08.CL a 1 dígito,999,Respuesta no codificable,"0:9, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"275,787",,
+Persona,cod_ciuo,CIUO-08.CL a 1 dígito,-99,No respuesta,"0:9, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"20,547",,
+Persona,cod_ciuo,CIUO-08.CL a 1 dígito,NA,No aplica,"0:9, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"10,202,931",,
+Persona,cod_caenes,CAENES a 1 dígito,A,"Agricultura, ganadería, silvicultura y pesca","A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"484,597",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+B",Explotación de minas y canteras,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"275,517",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+C",Industrias manufactureras,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"637,429",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+D","Suministro de electricidad, gas, vapor y aire acondicionado","A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"85,063",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+E","Suministro de agua; evacuación de aguas residuales, gestión de desechos y descontaminación","A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"60,844",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+F",Construcción,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"640,645",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+G",Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"1,365,418",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+H",Transporte y almacenamiento,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"558,899",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+I",Actividades de alojamiento y de servicio de comidas,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"390,006",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+J",Información y comunicaciones,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"169,467",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+K",Actividades financieras y de seguros,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"158,834",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+L",Actividades inmobiliarias,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"74,536",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+M","Actividades profesionales, científicas y técnicas","A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"315,654",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+N",Actividades de servicios administrativos y de apoyo,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"324,195",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+O",Administración pública y defensa; planes de seguridad social de afiliación obligatoria,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"378,190",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+P",Enseñanza,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"702,416",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+Q",Actividades de atención de la salud humana y de asistencia social,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"671,212",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+R","Actividades artísticas, de entretenimiento y recreativas","A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"94,624",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+S",Otras actividades de servicios,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"241,797",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+T",Actividades de los hogares como empleadores; actividades no diferenciadas de los hogares como productores de bienes y servicios para uso propio,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"215,173",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+U",Actividades de organizaciones y órganos extraterritoriales,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"2,917",,
+Persona,cod_caenes,CAENES a 1 dígito,"
+999",Respuesta no codificable,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"406,001",,
+Persona,cod_caenes,CAENES a 1 dígito,-99,No respuesta,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"24,067",,
+Persona,cod_caenes,CAENES a 1 dígito,NA,No aplica,"A:U, 999; -99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"10,202,931",,
+Persona,p44_lug_trab,44. ¿En qué comuna o país se ubica su trabajo? ,1,"En su comuna, en la vivienda donde reside","1:5;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"1,637,632",,
+Persona,p44_lug_trab,44. ¿En qué comuna o país se ubica su trabajo? ,2,"En su comuna, fuera de la vivienda donde reside","1:5;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"3,311,492",,
+Persona,p44_lug_trab,44. ¿En qué comuna o país se ubica su trabajo? ,3,En otra comuna,"1:5;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"2,856,674",,
+Persona,p44_lug_trab,44. ¿En qué comuna o país se ubica su trabajo? ,4,En otro país,"1:5;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"6,751",,
+Persona,p44_lug_trab,44. ¿En qué comuna o país se ubica su trabajo? ,5,Varias comunas o países,"1:5;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"460,346",,
+Persona,p44_lug_trab,44. ¿En qué comuna o país se ubica su trabajo? ,-99,No respuesta,"1:5;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"4,606",,
+Persona,p44_lug_trab,44. ¿En qué comuna o país se ubica su trabajo? ,NA,No aplica,"1:5;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas,"10,202,931",,
+Persona,p44_lug_trab_esp,Lugar de trabajo,2:16305,Ver diccionario códigos territoriales específicos,2:16305;-99,Personas ocupadas,"8,268,472",,
+Persona,p44_lug_trab_esp,Lugar de trabajo,-99,No respuesta,2:16305;-99,Personas ocupadas,"9,029",,
+Persona,p44_lug_trab_esp,Lugar de trabajo,NA,No aplica,2:16305;-99,Personas ocupadas,"10,202,931",,
+Persona,p45_medio_transporte,45. ¿Cuál es el medio de transporte principal que utiliza para dirigirse a su lugar de trabajo? ,1,Auto particular,"1:7;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas que no trabajan en la vivienda donde residen,"2,341,926",,
+Persona,p45_medio_transporte,45. ¿Cuál es el medio de transporte principal que utiliza para dirigirse a su lugar de trabajo? ,2,"Transporte público (bus, micro, metro, tren, taxi, colectivo)","1:7;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas que no trabajan en la vivienda donde residen,"2,793,070",,
+Persona,p45_medio_transporte,45. ¿Cuál es el medio de transporte principal que utiliza para dirigirse a su lugar de trabajo? ,3,Caminando,"1:7;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas que no trabajan en la vivienda donde residen,"677,171",,
+Persona,p45_medio_transporte,45. ¿Cuál es el medio de transporte principal que utiliza para dirigirse a su lugar de trabajo? ,4,Bicicleta (incluye scooter),"1:7;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas que no trabajan en la vivienda donde residen,"254,215",,
+Persona,p45_medio_transporte,45. ¿Cuál es el medio de transporte principal que utiliza para dirigirse a su lugar de trabajo? ,5,Motocicleta,"1:7;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas que no trabajan en la vivienda donde residen,"95,687",,
+Persona,p45_medio_transporte,45. ¿Cuál es el medio de transporte principal que utiliza para dirigirse a su lugar de trabajo? ,6,"Caballo, lancha o bote","1:7;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas que no trabajan en la vivienda donde residen,"6,348",,
+Persona,p45_medio_transporte,45. ¿Cuál es el medio de transporte principal que utiliza para dirigirse a su lugar de trabajo? ,7,Otro,"1:7;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas que no trabajan en la vivienda donde residen,"465,580",,
+Persona,p45_medio_transporte,45. ¿Cuál es el medio de transporte principal que utiliza para dirigirse a su lugar de trabajo? ,-99,No respuesta,"1:7;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas que no trabajan en la vivienda donde residen,"1,266",,
+Persona,p45_medio_transporte,45. ¿Cuál es el medio de transporte principal que utiliza para dirigirse a su lugar de trabajo? ,NA,No aplica,"1:7;
+-99 (no respuesta);
+NA (no aplica)",Personas ocupadas que no trabajan en la vivienda donde residen,"11,845,169",,
+Persona,p46a_tot_hijs_nac,46. ¿Cuántas hijas e hijos nacidos vivos ha tenido en total? ,0:23,Válidos,"0:23; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más,"7,862,575",,
+Persona,p46a_tot_hijs_nac,46. ¿Cuántas hijas e hijos nacidos vivos ha tenido en total? ,-99,No respuesta,"0:23; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más,"44,706",,
+Persona,p46a_tot_hijs_nac,46. ¿Cuántas hijas e hijos nacidos vivos ha tenido en total? ,NA,No aplica,"0:23; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más,"10,573,151",,
+Persona,p46b_hijas_nac,"46. Del total de hijas e hijos nacidos vivos, ¿cuántas son mujeres? ",0:22,Válidos,"0:22; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más,"5,570,891",,
+Persona,p46b_hijas_nac,"46. Del total de hijas e hijos nacidos vivos, ¿cuántas son mujeres? ",-99,No respuesta,"0:22; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más,"2,085",,
+Persona,p46b_hijas_nac,"46. Del total de hijas e hijos nacidos vivos, ¿cuántas son mujeres? ",NA,No aplica,"0:22; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más,"12,907,456",,
+Persona,p46c_hijos_nac,"46. Del total de hijas e hijos nacidos vivos, ¿cuántos son hombres? ",0:22,Válidos,"0:22; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más,"5,570,891",,
+Persona,p46c_hijos_nac,"46. Del total de hijas e hijos nacidos vivos, ¿cuántos son hombres? ",-99,No respuesta,"0:22; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más,"2,085",,
+Persona,p46c_hijos_nac,"46. Del total de hijas e hijos nacidos vivos, ¿cuántos son hombres? ",NA,No aplica,"0:22; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más,"12,907,456",,
+Persona,p47a_tot_hijs_sobrev,47. ¿Cuántas hijas e hijos están vivos actualmente? ,0:22,Válidos,"0:22; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"5,569,843",,
+Persona,p47a_tot_hijs_sobrev,47. ¿Cuántas hijas e hijos están vivos actualmente? ,-99,No respuesta,"0:22; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"3,133",,
+Persona,p47a_tot_hijs_sobrev,47. ¿Cuántas hijas e hijos están vivos actualmente? ,NA,No aplica,"0:22; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"12,907,456",,
+Persona,p47b_hijas_sobrev,"47. Del total de hijas e hijos que se encuentran vivos, ¿cuántas son mujeres? ",0:15,Válidos,"0:15; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"5,475,748",,
+Persona,p47b_hijas_sobrev,"47. Del total de hijas e hijos que se encuentran vivos, ¿cuántas son mujeres? ",-99,No respuesta,"0:15; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"58,447",,
+Persona,p47b_hijas_sobrev,"47. Del total de hijas e hijos que se encuentran vivos, ¿cuántas son mujeres? ",NA,No aplica,"0:15; -99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"12,946,237",,
+Persona,p47c_hijos_sobrev,"47. Del total de hijas e hijos que se encuentran vivos, ¿cuántos son hombres? ",0:19,Válidos,0:19; -99 (no respuesta),Mujeres de 15 años o más que han tenido hijos nacidos vivos,"5,475,748",,
+Persona,p47c_hijos_sobrev,"47. Del total de hijas e hijos que se encuentran vivos, ¿cuántos son hombres? ",-99,No respuesta,0:19; -99 (no respuesta),Mujeres de 15 años o más que han tenido hijos nacidos vivos,"58,447",,
+Persona,p47c_hijos_sobrev,"47. Del total de hijas e hijos que se encuentran vivos, ¿cuántos son hombres? ",NA,No aplica,0:19; -99 (no respuesta),Mujeres de 15 años o más que han tenido hijos nacidos vivos,"12,946,237",,
+Persona,p48_anio_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Año ,1934:2024,Válidos,"1934:2024;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"5,354,481",,
+Persona,p48_anio_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Año ,-99,No responde,"1934:2024;
+-99 (no responde);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"218,495",,
+Persona,p48_anio_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Año ,NA,No aplica,"1934:2024;
+-99 (no responde);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"12,907,456",,
+Persona,p48_mes_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Mes ,1,Enero,"1:12;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"459,083",,
+Persona,p48_mes_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Mes ,2,Febrero,"1:12;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"410,413",,
+Persona,p48_mes_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Mes ,3,Marzo,"1:12;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"455,275",,
+Persona,p48_mes_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Mes ,4,Abril,"1:12;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"436,463",,
+Persona,p48_mes_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Mes ,5,Mayo,"1:12;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"443,334",,
+Persona,p48_mes_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Mes ,6,Junio,"1:12;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"441,553",,
+Persona,p48_mes_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Mes ,7,Julio,"1:12;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"431,142",,
+Persona,p48_mes_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Mes ,8,Agosto,"1:12;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"445,898",,
+Persona,p48_mes_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Mes ,9,Septiembre,"1:12;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"457,217",,
+Persona,p48_mes_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Mes ,10,Octubre,"1:12;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"452,482",,
+Persona,p48_mes_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Mes ,11,Noviembre,"1:12;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"434,750",,
+Persona,p48_mes_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Mes ,12,Diciembre,"1:12;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"444,343",,
+Persona,p48_mes_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Mes ,-99,No respuesta,"1:12;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"261,023",,
+Persona,p48_mes_nac_uh,48. ¿En qué mes y año nació su última hija o hijo nacido vivo? Mes ,NA,No aplica,"1:12;
+-99 (no respuesta);
+NA (no aplica)",Mujeres de 15 años o más que han tenido hijos nacidos vivos,"12,907,456",,
+Persona,div_genero,Diversidades de género,1,Sí,"1:3;
+-66 (anonimizado); NA (no aplica)",Personas de 18 años o más,"64,101",,
+Persona,div_genero,Diversidades de género,2,No,"1:3;
+-66 (anonimizado); NA (no aplica)",Personas de 18 años o más,"12,983,214",,
+Persona,div_genero,Diversidades de género,3,No clasificable,"1:3;
+-66 (anonimizado); NA (no aplica)",Personas de 18 años o más,"143,512",,
+Persona,div_genero,Diversidades de género,-66,Valor suprimido por anonimización,"1:3;
+-66 (anonimizado); NA (no aplica)",Personas de 18 años o más,"1,275,674",,
+Persona,div_genero,Diversidades de género,NA,No aplica,"1:3;
+-66 (anonimizado); NA (no aplica)",Personas de 18 años o más,"4,013,931",,
+Persona,comuna_bajo_umbral,Comuna con menos de 6.000 personas censadas,1,Sí,1:2,Todos los registros,"151,199",,
+Persona,comuna_bajo_umbral,Comuna con menos de 6.000 personas censadas,2,No,1:2,Todos los registros,"18,329,233",,

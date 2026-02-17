@@ -1,0 +1,14 @@
+
+collections:
+
+  - id: chile
+    name: Chile datasets
+    datasets:
+      - cl-ine-censo
+      - cl-mdsf-casen
+
+  - id: core_city_context
+    name: Core city context
+    datasets:
+      - cl-ine-censo
+      - cl-mdsf-casen

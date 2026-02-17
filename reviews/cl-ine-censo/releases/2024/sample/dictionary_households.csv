@@ -1,0 +1,131 @@
+Entidad,Nombre variable,Descripción de la variable,Valor,Etiqueta de categoría,Rango,Universo,Conteo,
+Hogar,id_vivienda,Llave identificadora de la vivienda o de la entrevista,1:7664466,Válidos,1:7664466,Todos los registros,"6,622,597",
+Hogar,id_hogar,Llave identificadora de hogar,0:26,Válidos,0:26,Todos los registros,"6,622,597",
+Hogar,region,Región,1:16,Ver diccionario códigos territoriales,1:16,Todos los registros,"6,622,597",
+Hogar,provincia,Provincia,11:163,Ver diccionario códigos territoriales,11:163,Todos los registros,"6,622,597",
+Hogar,comuna,Comuna,1101:16305,Ver diccionario códigos territoriales,1101:16305,Todos los registros,"6,622,597",
+Hogar,area,Área urbana o rural,1,Urbano,1:2,Todos los registros,"5,733,950",
+Hogar,area,Área urbana o rural,2,Rural,1:2,Todos los registros,"888,647",
+Hogar,tipo_operativo,Tipo de operativo,1,Persona en Situación de Calle,1:3,Todos los registros,"21,750",
+Hogar,tipo_operativo,Tipo de operativo,2,Vivienda Particular,1:3,Todos los registros,"6,596,527",
+Hogar,tipo_operativo,Tipo de operativo,3,Vivienda Colectiva,1:3,Todos los registros,"4,320",
+Hogar,p12_tenencia_viv,12. La vivienda que ocupa este hogar es: ,1,Propia pagada,"1:9; 
+-99 (no respuesta), NA (no aplica)",Todos los hogares,"3,120,238",
+Hogar,p12_tenencia_viv,12. La vivienda que ocupa este hogar es: ,2,Propia pagándose,"1:9; 
+-99 (no respuesta), NA (no aplica)",Todos los hogares,"910,247",
+Hogar,p12_tenencia_viv,12. La vivienda que ocupa este hogar es: ,3,Arrendada con contrato,"1:9; 
+-99 (no respuesta), NA (no aplica)",Todos los hogares,"1,229,328",
+Hogar,p12_tenencia_viv,12. La vivienda que ocupa este hogar es: ,4,Arrendada sin contrato,"1:9; 
+-99 (no respuesta), NA (no aplica)",Todos los hogares,"498,871",
+Hogar,p12_tenencia_viv,12. La vivienda que ocupa este hogar es: ,5,Cedida por trabajo o servicio,"1:9; 
+-99 (no respuesta), NA (no aplica)",Todos los hogares,"90,697",
+Hogar,p12_tenencia_viv,12. La vivienda que ocupa este hogar es: ,6,Cedida por familiar u otro,"1:9; 
+-99 (no respuesta), NA (no aplica)",Todos los hogares,"511,118",
+Hogar,p12_tenencia_viv,12. La vivienda que ocupa este hogar es: ,7,Usufructo: solo uso y goce,"1:9; 
+-99 (no respuesta), NA (no aplica)",Todos los hogares,"61,019",
+Hogar,p12_tenencia_viv,12. La vivienda que ocupa este hogar es: ,8,Ocupada de hecho,"1:9; 
+-99 (no respuesta), NA (no aplica)",Todos los hogares,"57,788",
+Hogar,p12_tenencia_viv,12. La vivienda que ocupa este hogar es: ,9,Propiedad en sucesión o litigio,"1:9; 
+-99 (no respuesta), NA (no aplica)",Todos los hogares,"116,125",
+Hogar,p12_tenencia_viv,12. La vivienda que ocupa este hogar es: ,-99,No respuesta,"1:9; 
+-99 (no respuesta), NA (no aplica)",Todos los hogares,"1,096",
+Hogar,p12_tenencia_viv,12. La vivienda que ocupa este hogar es: ,NA,No aplica,"1:9; 
+-99 (no respuesta), NA (no aplica)",Todos los hogares,"26,070",
+Hogar,p13_comb_cocina,13. ¿Cuál es la principal fuente de energía o combustible que utilizan para cocinar? ,1,Gas,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"5,780,274",
+Hogar,p13_comb_cocina,13. ¿Cuál es la principal fuente de energía o combustible que utilizan para cocinar? ,2,Parafina o petróleo,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"3,832",
+Hogar,p13_comb_cocina,13. ¿Cuál es la principal fuente de energía o combustible que utilizan para cocinar? ,3,Leña,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"339,220",
+Hogar,p13_comb_cocina,13. ¿Cuál es la principal fuente de energía o combustible que utilizan para cocinar? ,4,Pellet,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"1,960",
+Hogar,p13_comb_cocina,13. ¿Cuál es la principal fuente de energía o combustible que utilizan para cocinar? ,5,Carbón,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"1,520",
+Hogar,p13_comb_cocina,13. ¿Cuál es la principal fuente de energía o combustible que utilizan para cocinar? ,6,Electricidad,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"439,520",
+Hogar,p13_comb_cocina,13. ¿Cuál es la principal fuente de energía o combustible que utilizan para cocinar? ,7,Energía solar (ej. cocina u horno solar),"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,639,
+Hogar,p13_comb_cocina,13. ¿Cuál es la principal fuente de energía o combustible que utilizan para cocinar? ,8,No utiliza fuente de energía o combustible para cocinar,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"28,860",
+Hogar,p13_comb_cocina,13. ¿Cuál es la principal fuente de energía o combustible que utilizan para cocinar? ,-99,No respuesta,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,702,
+Hogar,p13_comb_cocina,13. ¿Cuál es la principal fuente de energía o combustible que utilizan para cocinar? ,NA,No aplica,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"26,070",
+Hogar,p14_comb_calefaccion,14. ¿Cuál es la principal fuente de energía o combustible que utilizan para calefaccionar? ,1,Gas,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"1,688,313",
+Hogar,p14_comb_calefaccion,14. ¿Cuál es la principal fuente de energía o combustible que utilizan para calefaccionar? ,2,Parafina o petróleo,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"680,755",
+Hogar,p14_comb_calefaccion,14. ¿Cuál es la principal fuente de energía o combustible que utilizan para calefaccionar? ,3,Leña,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"1,606,997",
+Hogar,p14_comb_calefaccion,14. ¿Cuál es la principal fuente de energía o combustible que utilizan para calefaccionar? ,4,Pellet,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"137,853",
+Hogar,p14_comb_calefaccion,14. ¿Cuál es la principal fuente de energía o combustible que utilizan para calefaccionar? ,5,Carbón,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"13,426",
+Hogar,p14_comb_calefaccion,14. ¿Cuál es la principal fuente de energía o combustible que utilizan para calefaccionar? ,6,Electricidad,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"1,283,687",
+Hogar,p14_comb_calefaccion,14. ¿Cuál es la principal fuente de energía o combustible que utilizan para calefaccionar? ,7,Otra,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"24,691",
+Hogar,p14_comb_calefaccion,14. ¿Cuál es la principal fuente de energía o combustible que utilizan para calefaccionar? ,8,No utiliza fuente de energía o combustible para calefaccionar,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"1,159,827",
+Hogar,p14_comb_calefaccion,14. ¿Cuál es la principal fuente de energía o combustible que utilizan para calefaccionar? ,-99,No respuesta,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,978,
+Hogar,p14_comb_calefaccion,14. ¿Cuál es la principal fuente de energía o combustible que utilizan para calefaccionar? ,NA,No aplica,"1:8; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"26,070",
+Hogar,p15a_serv_tel_movil,"15. Este hogar, ¿dispone de teléfono móvil, celular o smartphone? ",1,Sí,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"6,475,071",
+Hogar,p15a_serv_tel_movil,"15. Este hogar, ¿dispone de teléfono móvil, celular o smartphone? ",2,No,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"119,949",
+Hogar,p15a_serv_tel_movil,"15. Este hogar, ¿dispone de teléfono móvil, celular o smartphone? ",-99,No respuesta,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"1,507",
+Hogar,p15a_serv_tel_movil,"15. Este hogar, ¿dispone de teléfono móvil, celular o smartphone? ",NA,No aplica,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"26,070",
+Hogar,p15b_serv_compu,"15. Este hogar, ¿dispone de computador (escritorio o portátil)? ",1,Sí,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"3,621,619",
+Hogar,p15b_serv_compu,"15. Este hogar, ¿dispone de computador (escritorio o portátil)? ",2,No,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"2,964,123",
+Hogar,p15b_serv_compu,"15. Este hogar, ¿dispone de computador (escritorio o portátil)? ",-99,No respuesta,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"10,785",
+Hogar,p15b_serv_compu,"15. Este hogar, ¿dispone de computador (escritorio o portátil)? ",NA,No aplica,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"26,070",
+Hogar,p15c_serv_tablet,"15. Este hogar, ¿dispone de tablet? ",1,Sí,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"1,645,321",
+Hogar,p15c_serv_tablet,"15. Este hogar, ¿dispone de tablet? ",2,No,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"4,939,222",
+Hogar,p15c_serv_tablet,"15. Este hogar, ¿dispone de tablet? ",-99,No respuesta,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"11,984",
+Hogar,p15c_serv_tablet,"15. Este hogar, ¿dispone de tablet? ",NA,No aplica,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"26,070",
+Hogar,p15d_serv_internet_fija,"15. Este hogar, ¿dispone de internet fija? ",1,Sí,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"4,250,122",
+Hogar,p15d_serv_internet_fija,"15. Este hogar, ¿dispone de internet fija? ",2,No,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"2,338,834",
+Hogar,p15d_serv_internet_fija,"15. Este hogar, ¿dispone de internet fija? ",-99,No respuesta,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"7,571",
+Hogar,p15d_serv_internet_fija,"15. Este hogar, ¿dispone de internet fija? ",NA,No aplica,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"26,070",
+Hogar,p15e_serv_internet_movil,"15. Este hogar, ¿dispone de internet móvil desde un celular, tablet o BAM? ",1,Sí,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"5,734,118",
+Hogar,p15e_serv_internet_movil,"15. Este hogar, ¿dispone de internet móvil desde un celular, tablet o BAM? ",2,No,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"854,837",
+Hogar,p15e_serv_internet_movil,"15. Este hogar, ¿dispone de internet móvil desde un celular, tablet o BAM? ",-99,No respuesta,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"7,572",
+Hogar,p15e_serv_internet_movil,"15. Este hogar, ¿dispone de internet móvil desde un celular, tablet o BAM? ",NA,No aplica,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"26,070",
+Hogar,p15f_serv_internet_satelital,"15. Este hogar, ¿dispone de internet por conexión satelital? ",1,Sí,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"288,473",
+Hogar,p15f_serv_internet_satelital,"15. Este hogar, ¿dispone de internet por conexión satelital? ",2,No,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"6,293,135",
+Hogar,p15f_serv_internet_satelital,"15. Este hogar, ¿dispone de internet por conexión satelital? ",-99,No respuesta,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"14,919",
+Hogar,p15f_serv_internet_satelital,"15. Este hogar, ¿dispone de internet por conexión satelital? ",NA,No aplica,"1:2; 
+-99 (no respuesta); NA (no aplica)",Todos los hogares,"26,070",
+Hogar,tipologia_hogar,Tipología de hogar,1,Unipersonal,1:7; NA (no aplica),Todos los hogares,"1,437,648",
+Hogar,tipologia_hogar,Tipología de hogar,2,Nuclear monoparental,1:7; NA (no aplica),Todos los hogares,"985,912",
+Hogar,tipologia_hogar,Tipología de hogar,3,Nuclear pareja sin hijos,1:7; NA (no aplica),Todos los hogares,"940,030",
+Hogar,tipologia_hogar,Tipología de hogar,4,Nuclear pareja con hijos,1:7; NA (no aplica),Todos los hogares,"1,796,839",
+Hogar,tipologia_hogar,Tipología de hogar,5,Extenso,1:7; NA (no aplica),Todos los hogares,"945,125",
+Hogar,tipologia_hogar,Tipología de hogar,6,Compuesto,1:7; NA (no aplica),Todos los hogares,"112,706",
+Hogar,tipologia_hogar,Tipología de hogar,7,Sin núcleo,1:7; NA (no aplica),Todos los hogares,"378,267",
+Hogar,tipologia_hogar,Tipología de hogar,NA,No aplica,1:7; NA (no aplica),Todos los hogares,"26,070",
+Hogar,comuna_bajo_umbral,Comuna con menos de 6.000 personas censadas,1,Sí,1:2,Todos los registros,"60,761",
+Hogar,comuna_bajo_umbral,Comuna con menos de 6.000 personas censadas,2,No,1:2,Todos los registros,"6,561,836",

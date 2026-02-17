@@ -1,0 +1,65 @@
+dataset_id: cl-mdsf-casen
+release: "2022"               # upstream survey round
+reviewed_on: 2026-02-17
+reviewed_by: amanda
+
+publisher:
+  name: Ministerio de Desarrollo Social y Familia
+  product_site: Observatorio Social
+  country: CL
+
+source:
+  main_url: https://observatorio.ministeriodesarrollosocial.gob.cl/encuesta-casen-2022
+  access_type: public_download
+  format: mixed (reports, tables, downloadable files)
+  documentation_available: true
+
+coverage:
+  geography: Chile
+  temporal_reference: 2022 survey round
+  spatial_levels_expected:
+    - country
+    - region
+    - comuna 
+
+themes:
+  - socioeconomics
+  - poverty
+  - income
+  - labour
+  - mobility_proxy
+
+key_indicators_used:
+  - median_household_income
+  - poverty_rate
+  - unemployment_rate
+  - public_transport_commute_share
+
+linked_products:
+  - name: Estimaciones de Pobreza Comunal 2022
+    url: https://observatorio.ministeriodesarrollosocial.gob.cl/pobreza-comunal-2022
+
+data_quality:
+  authority: official_government_statistics
+  update_frequency: biennial_or_triennial
+  known_release_notes:
+    - "CASEN 2022 outputs have versioned updates on the site (e.g., 20 Oct 2023 for core poverty/income results; some topic outputs updated later)."
+
+suitability_use_cases:
+  city_context: high
+  vulnerability_inputs: high
+  transport_proxy: medium
+  direct_emissions_use: low
+
+integration_notes:
+  join_keys:
+    - region_code
+    - comuna_code
+  requires_cleaning: true
+  requires_harmonisation: true
+  recommended_storage: aggregated_city_level
+  warning: "Confirm availability and definitions per indicator (income/poverty/labour/commuting) before production."
+
+status:
+  production_ready: pending_validation
+  priority: high

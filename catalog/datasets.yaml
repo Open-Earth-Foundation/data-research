@@ -1,0 +1,65 @@
+- id: cl-ine-censo
+  name: Chile Population and Housing Census
+  publisher:
+    id: cl-ine
+    name: Instituto Nacional de Estadísticas (Chile)
+    url: https://www.ine.gob.cl/
+  license:
+    id: CC-BY-4.0
+    name: Creative Commons Attribution 4.0 International
+    url: https://creativecommons.org/licenses/by/4.0/
+    commercial_use: true
+    note: "Verify current terms at ine.gob.cl; Chilean official statistics typically published under open data principles."
+  description: >
+    Official Chile Population and Housing Census dataset providing
+    demographic, housing, employment, and infrastructure indicators
+    at national to sub-city level.
+  coverage:
+    geography: country
+    countries: [CL]
+    spatial_levels: [country, region, comuna, census_block]
+  themes:
+    - socioeconomics
+    - housing
+    - infrastructure
+    - employment
+    - mobility_proxy
+  update_frequency: irregular_census
+  typical_frequency_years: 10
+  current_release: "2024"
+  production_approved_release: "2024"
+  releases:
+    - version: "2024"
+      path: "reviews/cl-ine-censo/releases/2024"
+
+- id: cl-mdsf-casen
+  name: Encuesta CASEN
+  publisher:
+    id: cl-mdsf
+    name: Ministerio de Desarrollo Social y Familia (Chile) - Observatorio Social
+    url: https://observatorio.ministeriodesarrollosocial.gob.cl/encuesta-casen
+  license:
+    id: CC-BY-4.0
+    name: Creative Commons Attribution 4.0 International
+    url: https://creativecommons.org/licenses/by/4.0/
+    commercial_use: true
+    note: "CASEN data on BIDAT published under CC BY. Confirm at observatorio.ministeriodesarrollosocial.gob.cl."
+  description: >
+    National socioeconomic household survey (CASEN) used for poverty,
+    income distribution, and labour indicators. Includes published results
+    and supporting methodological documents.
+  coverage:
+    geography: country
+    countries: [CL]
+    spatial_levels: [country, region, comuna]
+  themes:
+    - socioeconomics
+    - poverty
+    - income
+    - labour
+  update_frequency: biennial_or_triennial
+  current_release: "2022"
+  production_approved_release: "2022"
+  releases:
+    - version: "2022"
+      path: "reviews/cl-mdsf-casen/releases/2022"
