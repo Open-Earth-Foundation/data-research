@@ -1,0 +1,59 @@
+dataset_id: resolve-ecoregions
+release: "2017"
+reviewed_on: 2026-02-18
+reviewed_by: amanda
+
+publisher:
+  name: RESOLVE Biodiversity and Wildlife Solutions
+  product_site: Ecoregions 2017
+  url: https://www.resolve.ngo/
+
+source:
+  main_url: https://www.resolve.ngo/our-work/biodiversity-wildlife/
+  access_type: public_download
+  format: shapefile (SHP)
+  documentation_available: true
+
+coverage:
+  geography: global
+  temporal_reference: 2017 (Dinerstein et al.)
+  spatial_levels_expected:
+    - ecoregion
+    - biome
+    - realm
+  geographic_extent: global
+
+themes:
+  - ecology
+  - land_cover
+  - biodiversity
+
+key_attributes:
+  - eco_name (ecoregion name)
+  - biome_name
+  - realm
+  - geometry
+
+integration_notes:
+  join_keys:
+    - eco_name
+    - biome_name
+    - realm
+  requires_cleaning: false
+  requires_harmonisation: false
+  recommended_storage: GeoPackage
+
+data_quality:
+  authority: resolve_scientific
+  update_frequency: irregular
+  known_release_notes:
+    - "Based on Dinerstein et al. (2017) BioScience. An Update of the Biome Map of the World."
+
+suitability_use_cases:
+  city_context: high
+  ecosystem_typing: high
+  spatial_joins: high
+
+status:
+  production_ready: pending_validation
+  priority: medium

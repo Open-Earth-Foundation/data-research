@@ -63,3 +63,94 @@
   releases:
     - version: "2022"
       path: "reviews/cl-mdsf-casen/releases/2022"
+
+- id: cl-ocha-ab
+  name: Chile Administrative Boundaries (COD-AB)
+  publisher:
+    id: ocha
+    name: OCHA Field Information Services (UN)
+    url: https://www.unocha.org/
+  license:
+    id: CC-BY-IGO
+    name: Creative Commons Attribution for Intergovernmental Organisations
+    url: https://creativecommons.org/licenses/by/3.0/igo/
+    commercial_use: true
+    note: "HDX COD datasets typically CC BY-IGO. Verify at data.humdata.org."
+  description: >
+    Chile subnational administrative boundaries as Common Operational Dataset (COD).
+    Admin 1 (16 regions), Admin 2 (56 provinces), Admin 3 (345 comunas). Published
+    by OCHA ROLAC on HDX for humanitarian reference.
+  coverage:
+    geography: country
+    countries: [CL]
+    spatial_levels: [region, province, comuna]
+  themes:
+    - boundaries
+    - administrative
+    - geocoding
+  update_frequency: annual_review
+  current_release: "2021"
+  production_approved_release: "2021"
+  releases:
+    - version: "2021"
+      path: "reviews/cl-ocha-ab/releases/2021"
+
+- id: resolve-ecoregions
+  name: Resolve Ecoregions 
+  publisher:
+    id: global-resolve
+    name: RESOLVE Biodiversity and Wildlife Solutions
+    url: https://www.resolve.ngo/
+  license:
+    id: CC-BY-4.0
+    name: Creative Commons Attribution 4.0 International
+    url: https://creativecommons.org/licenses/by/4.0/
+    commercial_use: true
+    note: "Data licensed under CC-BY 4.0. Based on Dinerstein et al. (2017) BioScience."
+  description: >
+    Global terrestrial ecoregions dataset mapping 846 ecoregions across 14 biomes
+    and 8 biogeographic realms. Used for biome classification, ecosystem context,
+    and conservation status of areas.
+  coverage:
+    geography: global
+    spatial_levels: [ecoregion, biome, realm]
+  themes:
+    - ecology
+    - land_cover
+    - biodiversity
+  update_frequency: irregular
+  current_release: "2017"
+  production_approved_release: "2017"
+  releases:
+    - version: "2017"
+      path: "reviews/resolve-ecoregions/releases/2017"
+
+- id: uncece-unlocode
+  name: UN/LOCODE
+  publisher:
+    id: uncece
+    name: UNECE CEFACT
+    url: https://unece.org/trade/cefact
+  license:
+    id: UN-terms
+    name: UN Terms of Use
+    url: https://www.unece.org/cefact/locode/terms-of-use.html
+    commercial_use: true
+    note: "UN/LOCODE made available under UN Terms of Use. Free for commercial and non-commercial use with attribution."
+  description: >
+    United Nations Code for Trade and Transport Locations. Global code list
+    for ports, airports, rail terminals, and other locations used in trade
+    and transport. Includes coordinates, function codes, and subdivision links.
+  coverage:
+    geography: global
+    spatial_levels: [country, subdivision, location]
+  themes:
+    - transport
+    - trade
+    - geocoding
+  update_frequency: regular
+  current_release: "2024-2"
+  production_approved_release: "2024-2"
+  releases:
+    - version: "2024-2"
+      path: "reviews/uncece-unlocode/releases/2024"

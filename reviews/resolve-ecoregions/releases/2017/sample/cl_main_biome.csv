@@ -1,0 +1,343 @@
+comuna_name,locode,main_biome,all_biomes
+Algarrobo,CL ALG,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Alhué,CL ALH,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Alto Biobío,,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Alto Hospicio,CL AHP,Deserts & Xeric Shrublands,['Deserts & Xeric Shrublands']
+Alto del Carmen,CL ADC,Montane Grasslands & Shrublands,"['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Ancud,CL ZUD,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Andacollo,CL AND,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Angol,CL ANG,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Antofagasta,CL ANF,Deserts & Xeric Shrublands,"['Deserts & Xeric Shrublands', 'Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Antuco,CL ANT,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Arauco,CL ARA,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Arica,CL ARI,Deserts & Xeric Shrublands,"['Deserts & Xeric Shrublands', 'Montane Grasslands & Shrublands']"
+Aysén,CL PSN,Temperate Broadleaf & Mixed Forests,"['N/A', 'Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+Buin,CL BUI,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Bulnes,CL BUL,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Cabildo,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Cabo de Hornos,,Temperate Broadleaf & Mixed Forests,"['N/A', 'Temperate Broadleaf & Mixed Forests']"
+Cabrero,CL CAB,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Calama,CL CJC,Montane Grasslands & Shrublands,"['Deserts & Xeric Shrublands', 'Montane Grasslands & Shrublands']"
+Calbuco,CL CBC,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Caldera,CL CLD,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Calera,CL LCL,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Calera de Tango,CL CDT,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Calle Larga,CL CLL,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Camarones,CL CAM,Deserts & Xeric Shrublands,"['Deserts & Xeric Shrublands', 'Montane Grasslands & Shrublands']"
+Camiña,CL CMA,Deserts & Xeric Shrublands,"['Deserts & Xeric Shrublands', 'Montane Grasslands & Shrublands']"
+Canela,CL CAN,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Carahue,CL CAR,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Cartagena,CL CGN,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Casablanca,CL CAS,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Castro,CL WCA,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Catemu,CL CAT,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Cauquenes,CL CAU,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Cañete,CL CTE,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Cerrillos,CL CER,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Cerro Navia,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Chaitén,CL WCH,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Chanco,CL CHA,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Chañaral,CL CNR,"Mediterranean Forests, Woodlands & Scrub","['Deserts & Xeric Shrublands', 'Mediterranean Forests, Woodlands & Scrub']"
+Chiguayante,CL CHI,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Chile Chico,CL CCH,Temperate Broadleaf & Mixed Forests,"['N/A', 'Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+Chillán,CL YAI,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Chillán Viejo,CL CHV,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Chimbarongo,CL CBG,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Cholchol,CL CHL,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Chonchi,CL CHO,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Chépica,CL CHE,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Cisnes,,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Cobquecura,CL CBQ,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Cochamó,,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Cochrane,CL COC,Temperate Broadleaf & Mixed Forests,"['N/A', 'Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+Codegua,CL COD,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands', 'Temperate Broadleaf & Mixed Forests']"
+Coelemu,CL COE,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Coihueco,CL COI,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Coinco,CL COO,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Colbún,CL COB,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Colchane,CL CNE,Montane Grasslands & Shrublands,['Montane Grasslands & Shrublands']
+Colina,CL CLN,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands', 'Temperate Broadleaf & Mixed Forests']"
+Collipulli,CL CPI,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Coltauco,CL CTC,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Combarbalá,CL CBB,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Concepción,CL CCP,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Conchalí,,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Concón,CL CON,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Constitución,CL CST,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Contulmo,CL CTM,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Copiapó,CL CPO,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Coquimbo,CL CQQ,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Coronel,CL CNL,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Corral,CL CRR,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Coyhaique,CL CXQ,Temperate Broadleaf & Mixed Forests,"['Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+Cunco,CL CUN,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Curacautín,CL CCN,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Curacaví,CL CRV,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Curaco de Vélez,CL CDV,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Curanilahue,CL CRN,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Curarrehue,CL CRE,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Curepto,CL CRT,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Curicó,CL CUR,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands', 'Temperate Broadleaf & Mixed Forests']"
+Dalcahue,CL DCH,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Diego de Almagro,CL DDA,Montane Grasslands & Shrublands,"['Deserts & Xeric Shrublands', 'Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Doñihue,CL DOH,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+El Bosque,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+El Carmen,CL ELC,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+El Monte,CL ELM,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+El Quisco,CL ELQ,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+El Tabo,CL ELT,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Empedrado,CL EMP,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Ercilla,CL ERC,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Estación Central,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Florida,CL FLO,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Freire,CL FRE,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Freirina,CL FRN,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Fresia,CL FRS,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Frutillar,CL FRT,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Futaleufú,CL FFU,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Futrono,CL FUT,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Galvarino,CL GAL,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+General Lagos,CL GLG,Montane Grasslands & Shrublands,['Montane Grasslands & Shrublands']
+Gorbea,CL GOR,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Graneros,CL GRA,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Guaitecas,,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Hijuelas,CL HIJ,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Hualaihué,,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Hualañé,CL HLE,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Hualpén,CL HPN,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Hualqui,CL HQI,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Huara,CL HUA,Deserts & Xeric Shrublands,"['Deserts & Xeric Shrublands', 'Montane Grasslands & Shrublands']"
+Huasco,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Huechuraba,CL HUE,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Illapel,CL ILL,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Independencia,CL IND,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Iquique,CL IQQ,Deserts & Xeric Shrublands,['Deserts & Xeric Shrublands']
+Isla de Maipo,CL IDM,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+La Cisterna,CL LCI,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+La Cruz,CL LCZ,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+La Estrella,CL LES,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+La Florida,CL LFL,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+La Granja,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+La Higuera,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+La Ligua,CL LIG,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+La Pintana,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+La Reina,CL REI,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+La Serena,CL LSC,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+La Unión,CL LUN,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Lago Ranco,CL RNC,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Lago Verde,CL LVD,Temperate Broadleaf & Mixed Forests,"['Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+Laguna Blanca,,Temperate Broadleaf & Mixed Forests,"['Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+Laja,CL LAJ,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Lampa,CL LAM,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Lanco,CL LAN,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Las Cabras,CL LCB,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Las Condes,,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Lautaro,CL LAU,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Lebu,CL LEB,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Licantén,CL LIC,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Limache,CL LIM,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Linares,CL LIN,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Litueche,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Llaillay,CL LLA,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Llanquihue,CL LIA,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Lo Barnechea,CL LBA,Temperate Broadleaf & Mixed Forests,"['Montane Grasslands & Shrublands', 'Temperate Broadleaf & Mixed Forests']"
+Lo Espejo,CL LEJ,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Lo Prado,CL LPR,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Lolol,CL LOL,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Loncoche,CL LNC,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Longaví,CL LON,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Lonquimay,CL LQY,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Los Alamos,CL LAL,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Los Andes,CL LIB,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Los Angeles,CL LSQ,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Los Lagos,CL LLG,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Los Muermos,CL LMU,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Los Sauces,CL LSA,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Los Vilos,CL LOS,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Lota,CL LTA,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Lumaco,CL LUM,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Machalí,CL MCI,Montane Grasslands & Shrublands,"['Montane Grasslands & Shrublands', 'Temperate Broadleaf & Mixed Forests']"
+Macul,CL MAC,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Maipú,CL MAI,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Malloa,CL MAL,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Marchigüe,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Mariquina,,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+María Elena,CL MAE,Deserts & Xeric Shrublands,"['Deserts & Xeric Shrublands', 'Montane Grasslands & Shrublands']"
+María Pinto,CL MPI,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Maule,CL MAU,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Maullín,CL MLL,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Mejillones,CL MJS,Deserts & Xeric Shrublands,"['Deserts & Xeric Shrublands', 'Mediterranean Forests, Woodlands & Scrub']"
+Melipeuco,CL MLP,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Melipilla,CL MEL,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Molina,CL MOL,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands', 'Temperate Broadleaf & Mixed Forests']"
+Monte Patria,CL MTP,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Mostazal,CL MOS,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands', 'Temperate Broadleaf & Mixed Forests']"
+Mulchén,CL MUL,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Máfil,CL MAF,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Nacimiento,CL NAC,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Nancagua,CL NCG,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Natales,CL CVJ,Temperate Broadleaf & Mixed Forests,"['N/A', 'Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+Navidad,CL NAV,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Negrete,CL NEG,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Ninhue,CL NIN,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Nogales,CL NOG,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Nueva Imperial,CL NIM,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+O'Higgins,CL OHI,Temperate Broadleaf & Mixed Forests,"['N/A', 'Temperate Broadleaf & Mixed Forests']"
+Olivar,CL OLI,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Ollagüe,CL OLL,Montane Grasslands & Shrublands,['Montane Grasslands & Shrublands']
+Olmué,CL OLM,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Osorno,CL ZOS,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Ovalle,CL OVL,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Padre Hurtado,CL PHU,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Padre Las Casas,CL PLC,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Paihuano,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Paillaco,CL PAO,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Paine,CL PNE,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Palena,CL PAL,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Palmilla,CL PMA,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Panguipulli,CL PAN,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Panquehue,CL PQH,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Papudo,CL PAP,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Paredones,CL PAR,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Parral,CL PRL,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Pedro Aguirre Cerda,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Pelarco,CL PEL,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Pelluhue,CL PLH,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Pemuco,CL PEM,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Pencahue,CL PEN,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Penco,CL PEO,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Peralillo,CL PER,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Perquenco,CL PQC,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Petorca,CL PET,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Peumo,CL PEU,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Peñaflor,CL PFL,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Peñalolén,CL PLN,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Pica,CL PIC,Montane Grasslands & Shrublands,"['Deserts & Xeric Shrublands', 'Montane Grasslands & Shrublands']"
+Pichidegua,CL PDH,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Pichilemu,CL PLM,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Pinto,CL PIN,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Pirque,CL PIR,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Pitrufquén,CL PIT,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Placilla,CL PLA,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Portezuelo,CL POR,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Porvenir,CL PVR,"Temperate Grasslands, Savannas & Shrublands","['Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+Primavera,CL PRI,"Temperate Grasslands, Savannas & Shrublands","['Temperate Grasslands, Savannas & Shrublands']"
+Providencia,CL PRO,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Puchuncaví,CL PCI,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Pucón,CL PUC,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Pudahuel,CL PUD,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Puente Alto,CL PTA,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Puerto Montt,CL PMC,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Puerto Octay,CL POC,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Puerto Varas,CL PVS,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Pumanque,CL PUM,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Punitaqui,CL PUN,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Punta Arenas,CL PUQ,Temperate Broadleaf & Mixed Forests,"['N/A', 'Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+Puqueldón,CL PQD,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Purranque,CL PRQ,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Purén,CL PUR,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Putaendo,CL PTO,Montane Grasslands & Shrublands,"['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Putre,CL PUT,Montane Grasslands & Shrublands,"['Deserts & Xeric Shrublands', 'Montane Grasslands & Shrublands']"
+Puyehue,CL CSA,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Queilén,CL QLN,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Quellón,CL PTE,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Quemchi,CL QMC,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Quilaco,,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Quilicura,CL QUI,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Quilleco,CL QLO,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Quillota,CL QTA,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Quillón,CL QIN,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Quilpué,CL QIL,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Quinchao,CL QCO,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Quinta Normal,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Quinta de Tilcoco,CL QDT,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Quintero,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Quirihue,CL QRH,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Rancagua,CL QRC,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Ranquil,CL RAN,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Rauco,CL RAU,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Recoleta,CL REC,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Renaico,CL RNO,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Renca,CL REN,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Rengo,CL RGO,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands', 'Temperate Broadleaf & Mixed Forests']"
+Requínoa,CL REQ,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Retiro,CL RET,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Rinconada,CL RIN,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Romeral,CL ROM,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands', 'Temperate Broadleaf & Mixed Forests']"
+Río Bueno,,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Río Claro,CL RCL,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Río Hurtado,CL RHU,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Río Ibáñez,CL RIB,Temperate Broadleaf & Mixed Forests,"['Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+Río Negro,CL RNE,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Río Verde,CL RVE,Temperate Broadleaf & Mixed Forests,"['Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+Saavedra,CL SAA,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Sagrada Familia,CL SAF,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Salamanca,CL SAL,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+San Antonio,CL SAI,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+San Bernardo,CL SBD,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+San Carlos,CL SCR,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+San Clemente,CL SCT,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands', 'Temperate Broadleaf & Mixed Forests']"
+San Esteban,CL SES,Montane Grasslands & Shrublands,"['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+San Fabián,CL SFN,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+San Felipe,CL SFP,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+San Fernando,CL SFD,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands', 'Temperate Broadleaf & Mixed Forests']"
+San Gregorio,CL SGR,"Temperate Grasslands, Savannas & Shrublands","['Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+San Ignacio,CL SIN,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+San Javier,CL SJV,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+San Joaquín,CL SJQ,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+San José de Maipo,CL SJM,Temperate Broadleaf & Mixed Forests,"['Montane Grasslands & Shrublands', 'Temperate Broadleaf & Mixed Forests']"
+San Juan de la Costa,CL SJC,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+San Miguel,CL SMG,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+San Nicolás,CL SNI,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+San Pablo,CL SPB,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+San Pedro,CL SPE,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+San Pedro de Atacama,CL SPA,Montane Grasslands & Shrublands,['Montane Grasslands & Shrublands']
+San Pedro de la Paz,CL SPP,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+San Rafael,CL SRA,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+San Ramón,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+San Rosendo,CL SRO,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+San Vicente,CL SVT,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Santa Bárbara,CL SBA,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Santa Cruz,CL SCZ,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Santa Juana,CL SJU,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Santa María,CL SMA,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Santiago,CL SCL,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Santo Domingo,CL RSD,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Sierra Gorda,CL SIG,Deserts & Xeric Shrublands,"['Deserts & Xeric Shrublands', 'Montane Grasslands & Shrublands']"
+Talagante,CL TLG,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Talca,CL TLX,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Talcahuano,CL TAL,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Taltal,CL TTC,Deserts & Xeric Shrublands,"['Deserts & Xeric Shrublands', 'Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Temuco,CL ZCO,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Teno,CL TEN,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Teodoro Schmidt,CL TEO,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Tierra Amarilla,CL TAM,Montane Grasslands & Shrublands,"['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Tiltil,CL TIL,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Timaukel,CL TIM,Temperate Broadleaf & Mixed Forests,"['N/A', 'Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+Tirúa,CL TIR,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Tocopilla,,Deserts & Xeric Shrublands,"['Deserts & Xeric Shrublands', 'Montane Grasslands & Shrublands']"
+Toltén,CL TOL,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Tomé,CL TOM,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Torres del Paine,CL TDP,Temperate Broadleaf & Mixed Forests,"['N/A', 'Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+Tortel,,Temperate Broadleaf & Mixed Forests,"['N/A', 'Temperate Broadleaf & Mixed Forests', 'Temperate Grasslands, Savannas & Shrublands']"
+Traiguén,CL TRA,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Treguaco,CL TRE,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Tucapel,CL TUC,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Valdivia,CL ZAL,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Vallenar,CL VLR,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Valparaíso,CL VAP,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Vichuquén,CL VCQ,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Victoria,CL ZIC,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Vicuña,CL VIC,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Montane Grasslands & Shrublands']"
+Vilcún,CL VCN,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Villa Alegre,CL VAG,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Villa Alemana,CL VIA,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Villarrica,CL VIL,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Vitacura,CL VIT,Temperate Broadleaf & Mixed Forests,['Temperate Broadleaf & Mixed Forests']
+Viña del Mar,CL KNA,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Yerbas Buenas,CL YBU,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Yumbel,CL YUM,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Yungay,CL YUN,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Zapallar,,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub']"
+Ñiquén,CL NQN,"Mediterranean Forests, Woodlands & Scrub","['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"
+Ñuñoa,CL NUN,Temperate Broadleaf & Mixed Forests,"['Mediterranean Forests, Woodlands & Scrub', 'Temperate Broadleaf & Mixed Forests']"

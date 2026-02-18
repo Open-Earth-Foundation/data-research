@@ -12,3 +12,10 @@ collections:
     datasets:
       - cl-ine-censo
       - cl-mdsf-casen
+      - resolve-ecoregions
+
+  - id: global
+    name: Global datasets
+    datasets:
+      - resolve-ecoregions
+      - uncece-unlocode
