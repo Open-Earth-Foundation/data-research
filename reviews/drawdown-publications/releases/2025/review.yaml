@@ -1,0 +1,57 @@
+dataset_id: drawdown-publications
+release: "2025"
+reviewed_on: 2026-02-23
+reviewed_by: amanda
+
+publisher:
+  name: Project Drawdown
+  product_site: Publications
+  url: https://drawdown.org/
+
+source:
+  main_url: https://drawdown.org/publications
+  access_type: public_web
+  format: PDF, web
+  documentation_available: true
+
+coverage:
+  geography: global
+  temporal_reference: ongoing (2023–2026)
+  spatial_levels_expected:
+    - global
+    - regional
+  geographic_extent: global
+
+themes:
+  - climate_solutions
+  - mitigation
+  - adaptation
+
+sample_files:
+  - README.md: publication catalog manifest and access notes
+  - explorer-solutions-table-2026-02-22.csv: Drawdown Explorer solutions (actions, sectors, clusters)
+  - drawdown-to-gpc-mapping.md: mapping rationale and sector/cluster/solution-level guidance
+  - drawdown-to-gpc-mapping.yaml: programmatic mapping (sector, cluster, solution overrides) to GPC
+
+integration_notes:
+  use_case: reference_documentation
+  join_keys: null
+  requires_cleaning: false
+  requires_harmonisation: false
+  recommended_storage: link_catalog
+
+data_quality:
+  authority: project_drawdown
+  update_frequency: ongoing
+  known_release_notes:
+    - "Publications updated regularly. Check drawdown.org/publications for latest."
+
+suitability_use_cases:
+  climate_solution_context: high
+  methodology_reference: high
+  city_context: low
+  direct_emissions_use: low
+
+status:
+  production_ready: pending_validation
+  priority: medium
